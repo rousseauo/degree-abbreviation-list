@@ -1,2 +1,7 @@
-# degree-abbreviation-list
-List of degree abbreviations (professional designations), often used in professional signatures
+# List of degree abbreviations (professional designations)
+Often used in professional signatures.
+
+Feel free to contribute. 
+
+Sources:
+- https://canadianwhoswho.ca/abbreviationsindex.php
