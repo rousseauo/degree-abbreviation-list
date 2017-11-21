@@ -1,0 +1,4922 @@
+[
+   {
+      "abbreviation":"A.A.",
+      "definition":"Associate in Arts; Associate of Arts"
+   },
+   {
+      "abbreviation":"A.A. & Q.M.G.",
+      "definition":"Assistant Adjutant and Quartermaster General"
+   },
+   {
+      "abbreviation":"A.A.A",
+      "definition":"Alberta Association of Architects "
+   },
+   {
+      "abbreviation":"A.A.A.",
+      "definition":"Amateur Athletic Association"
+   },
+   {
+      "abbreviation":"A.A.G.",
+      "definition":"Assistant-Adjutant-General"
+   },
+   {
+      "abbreviation":"A.A.O.N.M.S.",
+      "definition":"Ancient Arabic Order of the Nobles of the Mystic Shrine"
+   },
+   {
+      "abbreviation":"A.B.",
+      "definition":"Bachelor of Arts (U.S.)"
+   },
+   {
+      "abbreviation":"A.B.C.",
+      "definition":"Accredited Business Communicator"
+   },
+   {
+      "abbreviation":"A.C.",
+      "definition":"Advanced Certification, Canadian Association of Medical Radiation Technologists"
+   },
+   {
+      "abbreviation":"A.C.A.",
+      "definition":"Associate of the Institute of Chartered Accountants (U.K.)"
+   },
+   {
+      "abbreviation":"A.C.B.A.",
+      "definition":"Associate of the Canadian Bankers Association"
+   },
+   {
+      "abbreviation":"A.C.C.O.",
+      "definition":"Associate of the Canadian College of Organists  "
+   },
+   {
+      "abbreviation":"A.C.D.",
+      "definition":"Archaeologiae Christianae Doctor (See Doct. Arch.)"
+   },
+   {
+      "abbreviation":"A.C.I.S.",
+      "definition":"Associate of the Chartered Institute of Secretaries (U.K.)"
+   },
+   {
+      "abbreviation":"A.C.P.",
+      "definition":"American College of Physicians"
+   },
+   {
+      "abbreviation":"A.C.T.R.A.",
+      "definition":"Alliance of Canadian Cinema, Television and Radio Artists"
+   },
+   {
+      "abbreviation":"A.D.C.",
+      "definition":"Aide-de-Camp"
+   },
+   {
+      "abbreviation":"A.D.M.S.",
+      "definition":"Assistant Director of Medical Services"
+   },
+   {
+      "abbreviation":"A.F. & A.M.",
+      "definition":"Ancient Free and Accepted Masons"
+   },
+   {
+      "abbreviation":"A.F.C.",
+      "definition":"Air Force Cross"
+   },
+   {
+      "abbreviation":"A.F.L.",
+      "definition":"American Federation of Labor"
+   },
+   {
+      "abbreviation":"A.F.M.",
+      "definition":"American Federation of Musicians"
+   },
+   {
+      "abbreviation":"A.F.P.",
+      "definition":"Association of Fundraising Professionals"
+   },
+   {
+      "abbreviation":"A.F.T.R.A.",
+      "definition":"American Federation of Television and Radio Artists"
+   },
+   {
+      "abbreviation":"A.I.A.",
+      "definition":"Associate of the Institute of Actuaries (U.K.)"
+   },
+   {
+      "abbreviation":"A.I.A.",
+      "definition":"American Institute of Architects"
+   },
+   {
+      "abbreviation":"A.I.C.B.",
+      "definition":"Associate of the Institute of Canadian Bankers"
+   },
+   {
+      "abbreviation":"A.I.C.E.",
+      "definition":"Associate of the Institute of Engineers (U.K.)"
+   },
+   {
+      "abbreviation":"A.I.Ch.E.",
+      "definition":"American Institute of Chemical Engineers"
+   },
+   {
+      "abbreviation":"A.I.I.A.",
+      "definition":"Associate of the Insurance Institute of America"
+   },
+   {
+      "abbreviation":"A.I.I.C.",
+      "definition":"Associate of the Insurance Institute of Canada"
+   },
+   {
+      "abbreviation":"A.I.M.E.",
+      "definition":"American Institute of Mining, Metallurgy, and Petroleum Engineers"
+   },
+   {
+      "abbreviation":"A.I.S.A.",
+      "definition":"Associate of the Incorporated Secretaries’ Association"
+   },
+   {
+      "abbreviation":"A.L.A.",
+      "definition":"Associate of the Library Association (U.K.); American Library Association"
+   },
+   {
+      "abbreviation":"A.L.H.C.",
+      "definition":"Associate, Life and Health Claims "
+   },
+   {
+      "abbreviation":"A.M.",
+      "definition":"Master of Arts; Albert Medal"
+   },
+   {
+      "abbreviation":"A.M.C.",
+      "definition":"Army Medical Corps"
+   },
+   {
+      "abbreviation":"A.M.C.T.",
+      "definition":"Accredited Municipal Clerk/Treasurer"
+   },
+   {
+      "abbreviation":"A.M.P.",
+      "definition":"Advanced Management Program"
+   },
+   {
+      "abbreviation":"A.Mus.",
+      "definition":"Associate of Music"
+   },
+   {
+      "abbreviation":"A.O.C.",
+      "definition":"Air Officer Commanding"
+   },
+   {
+      "abbreviation":"A.O.C.A.",
+      "definition":"Associate of the Ontario College of Art"
+   },
+   {
+      "abbreviation":"A.O.C.A.D.",
+      "definition":"Associate of the Ontario College of Art & Design "
+   },
+   {
+      "abbreviation":"A.O.C.-in-C.",
+      "definition":"Air Officer Commanding-in-Chief"
+   },
+   {
+      "abbreviation":"A.O.E.",
+      "definition":"Alberta Order of Excellence"
+   },
+   {
+      "abbreviation":"A.P.E.O.",
+      "definition":"Association of Professional Engineers of Ontario"
+   },
+   {
+      "abbreviation":"A.P.R.",
+      "definition":"Accredited Public Relations Practitioner"
+   },
+   {
+      "abbreviation":"A.Q.M.G.",
+      "definition":"Assistant Quartermaster-General"
+   },
+   {
+      "abbreviation":"A.R.A.",
+      "definition":"Associate of the Royal Academy"
+   },
+   {
+      "abbreviation":"A.R.A.M.",
+      "definition":"Associate of the Royal Academy of Music"
+   },
+   {
+      "abbreviation":"A.R.C.A.",
+      "definition":"Associate of the Royal Canadian Academy of Arts; Associate of the Royal College of Art"
+   },
+   {
+      "abbreviation":"A.R.C.C.O.",
+      "definition":"Associate of the Royal Canadian College of Organists"
+   },
+   {
+      "abbreviation":"A.R.C.O.",
+      "definition":"Associate of the Royal College of Organists"
+   },
+   {
+      "abbreviation":"A.R.C.S.",
+      "definition":"Associate of the Royal College of Science"
+   },
+   {
+      "abbreviation":"A.R.C.T.",
+      "definition":"Associate of the Royal Conservatory of Music (Toronto)"
+   },
+   {
+      "abbreviation":"A.R.I.B.A.",
+      "definition":"Associate of the Royal Institute of British Architects"
+   },
+   {
+      "abbreviation":"A.R.S.M.",
+      "definition":"Associate of the Royal School of Mines; also of Music"
+   },
+   {
+      "abbreviation":"A.S.A.",
+      "definition":"Associate of the Society of Actuaries"
+   },
+   {
+      "abbreviation":"A.S.C.",
+      "definition":"administrateur de sociétés certifié "
+   },
+   {
+      "abbreviation":"A.S.H.R.A.E.",
+      "definition":"American Society of Heating, Refrigeration, and Air Conditioning Engineers"
+   },
+   {
+      "abbreviation":"A.S.L.A.",
+      "definition":"American Society of Landscape Architects"
+   },
+   {
+      "abbreviation":"A.T.C.M.",
+      "definition":"Associate of the Toronto Conservatory of Music"
+   },
+   {
+      "abbreviation":"A.U.C.C. ",
+      "definition":"Association of Universities and Colleges of Canada"
+   },
+   {
+      "abbreviation":"A.V.C.M.",
+      "definition":"Associate of the Victoria Conservatory of Music"
+   },
+   {
+      "abbreviation":"A/V/M",
+      "definition":"Air Vice-Marshall"
+   },
+   {
+      "abbreviation":"Acad.",
+      "definition":"Academy; Academician; Academic"
+   },
+   {
+      "abbreviation":"Acc.FM.",
+      "definition":"Accredited Family Mediator, Ontario Association for Family Mediation"
+   },
+   {
+      "abbreviation":"ACCME",
+      "definition":"Accreditation Council for Continuing Medical Education"
+   },
+   {
+      "abbreviation":"ACCUTE",
+      "definition":"Association of Canadian College and University Teachers of English"
+   },
+   {
+      "abbreviation":"Ad eund.",
+      "definition":"Ad eundem gradum (admitted to the same degree)"
+   },
+   {
+      "abbreviation":"Ad. E.",
+      "definition":"Advocatus Emeritus; Avocat émérite"
+   },
+   {
+      "abbreviation":"Adjt.",
+      "definition":"Adjutant"
+   },
+   {
+      "abbreviation":"Adm.",
+      "definition":"Admiral; Administrator; Administration "
+   },
+   {
+      "abbreviation":"Admin.",
+      "definition":"Administrator; Administration"
+   },
+   {
+      "abbreviation":"Adv.Dip.Sw",
+      "definition":"Advanced Diploma in Social Work"
+   },
+   {
+      "abbreviation":"Ag. de l’U.  (Paris)",
+      "definition":"Agrégé de l’Université (Paris)"
+   },
+   {
+      "abbreviation":"Ag. de Phil.",
+      "definition":"Agrégé de philosophie"
+   },
+   {
+      "abbreviation":"Agron.",
+      "definition":"Agronomy; Agronomist"
+   },
+   {
+      "abbreviation":"Alta.",
+      "definition":"Alberta"
+   },
+   {
+      "abbreviation":"Anat.",
+      "definition":"Anatomy; Anatomical; Anatomist"
+   },
+   {
+      "abbreviation":"AOAIEA",
+      "definition":"Accademico ordinario, Accademia Italiana di Economia Aziendale (Fellow of the Italian Academy of Business Economics)"
+   },
+   {
+      "abbreviation":"Art.Dip.Mus.",
+      "definition":"Artist Diploma (Music)"
+   },
+   {
+      "abbreviation":"Arty.",
+      "definition":"Artillery"
+   },
+   {
+      "abbreviation":"ASL",
+      "definition":"American Sign Language"
+   },
+   {
+      "abbreviation":"Atty.",
+      "definition":"Attorney"
+   },
+   {
+      "abbreviation":"b.",
+      "definition":"Born"
+   },
+   {
+      "abbreviation":"B.A.",
+      "definition":"Bachelor of Arts"
+   },
+   {
+      "abbreviation":"B.A. & Sc.",
+      "definition":"Bachelor of Arts & Science"
+   },
+   {
+      "abbreviation":"B.A.(Ph.)",
+      "definition":"Baccalauréat ès Arts (Philosophie)"
+   },
+   {
+      "abbreviation":"B.A.A.",
+      "definition":"Bachelor of Applied Arts"
+   },
+   {
+      "abbreviation":"B.A.Econ.",
+      "definition":"Bachelor of Arts in Economics"
+   },
+   {
+      "abbreviation":"B.A.Ed.",
+      "definition":"Bachelor of Arts in Education"
+   },
+   {
+      "abbreviation":"B.A.O.",
+      "definition":"Bachelor of Obstetrics"
+   },
+   {
+      "abbreviation":"B.A.P.",
+      "definition":"Bachelor of Arts in Recreation and Physical Education"
+   },
+   {
+      "abbreviation":"B.A.R.",
+      "definition":"Bachelor of Arts in Religion"
+   },
+   {
+      "abbreviation":"B.A.S.",
+      "definition":"Bachelor in Agricultural Science; Bachelor of Administrative Studies"
+   },
+   {
+      "abbreviation":"B.A.Sc.",
+      "definition":"Bachelor of Applied Science"
+   },
+   {
+      "abbreviation":"B.Arch.",
+      "definition":"Bachelor of Architecture"
+   },
+   {
+      "abbreviation":"B.Arts Sc.",
+      "definition":"Bachelor of Arts and Science"
+   },
+   {
+      "abbreviation":"B.B.A.",
+      "definition":"Bachelor of Business Administration"
+   },
+   {
+      "abbreviation":"B.B.C.",
+      "definition":"British Broadcasting Corporation"
+   },
+   {
+      "abbreviation":"B.B.M.",
+      "definition":"Bachelor of Business Management"
+   },
+   {
+      "abbreviation":"B.Bibl.",
+      "definition":"Baccalauréat en Bibliothéconomie"
+   },
+   {
+      "abbreviation":"B.C.",
+      "definition":"British Columbia "
+   },
+   {
+      "abbreviation":"B.C.D.",
+      "definition":"Bachelier en Chirurgie Dentale"
+   },
+   {
+      "abbreviation":"B.C.E.",
+      "definition":"Bachelor of Civil Engineering"
+   },
+   {
+      "abbreviation":"B.C.L.",
+      "definition":"Bachelor of Civil (or Common) Law"
+   },
+   {
+      "abbreviation":"B.C.S.",
+      "definition":"Bachelor of Commercial Science"
+   },
+   {
+      "abbreviation":"B.Ch., B.Chir.",
+      "definition":"Bachelor of Surgery"
+   },
+   {
+      "abbreviation":"B.Ch.E.",
+      "definition":"Bachelor of Chemical Engineering (U.S.)"
+   },
+   {
+      "abbreviation":"B.Chr.Ed.",
+      "definition":"Bachelor of Christian Education"
+   },
+   {
+      "abbreviation":"B.Com.,  B.Comm.",
+      "definition":"Bachelor of Commerce"
+   },
+   {
+      "abbreviation":"B.D.",
+      "definition":"Bachelor of Divinity"
+   },
+   {
+      "abbreviation":"B.D.C.",
+      "definition":"Bachelor of Canon Law (Bacc. Droit Canonique)"
+   },
+   {
+      "abbreviation":"B.D.S.",
+      "definition":"Bachelor of Dental Surgery (U.K.)"
+   },
+   {
+      "abbreviation":"B.Des.",
+      "definition":"Bachelor of Design"
+   },
+   {
+      "abbreviation":"B.Div.",
+      "definition":"Bachelor of Divinity"
+   },
+   {
+      "abbreviation":"B.E.",
+      "definition":"Bachelor of Engineering"
+   },
+   {
+      "abbreviation":"B.E.D.S.",
+      "definition":"Bachelor of Environmental Design Studies"
+   },
+   {
+      "abbreviation":"B.E.E.",
+      "definition":"Bachelor of Electrical Engineering; Bachelor of Elementary Education"
+   },
+   {
+      "abbreviation":"B.E.F.",
+      "definition":"British Expeditionary Force"
+   },
+   {
+      "abbreviation":"B.E.P.",
+      "definition":"Brevet d’Etudes Professionnelles; Baccalauréat en Enseignement Professionnel"
+   },
+   {
+      "abbreviation":"B.E.S.",
+      "definition":"Bachelor of Environmental Sciences; Bachelor of Environmental Studies"
+   },
+   {
+      "abbreviation":"B.E.Sc.",
+      "definition":"Bachelor of Engineering Science"
+   },
+   {
+      "abbreviation":"B.Ec.",
+      "definition":"Bachelor of Economics"
+   },
+   {
+      "abbreviation":"B.Ed.",
+      "definition":"Bachelor of Education"
+   },
+   {
+      "abbreviation":"B.en Ph.",
+      "definition":"Bachelier en Philosophie"
+   },
+   {
+      "abbreviation":"B.en Sc.Com.",
+      "definition":"Bachelier en Science Commerciale"
+   },
+   {
+      "abbreviation":"B.Eng.",
+      "definition":"Bachelor of Engineering"
+   },
+   {
+      "abbreviation":"B.ès A.",
+      "definition":"Bachelier ès Arts"
+   },
+   {
+      "abbreviation":"B.ès L.",
+      "definition":"Bachelier ès Lettres"
+   },
+   {
+      "abbreviation":"B.ès Sc.",
+      "definition":"Bachelier ès Science"
+   },
+   {
+      "abbreviation":"B.ès Sc.App.",
+      "definition":"Bachelier ès Science Appliqué"
+   },
+   {
+      "abbreviation":"B.F.",
+      "definition":"Bachelor of Forestry"
+   },
+   {
+      "abbreviation":"B.F.A.",
+      "definition":"Bachelor of Fine Arts"
+   },
+   {
+      "abbreviation":"B.G.S.",
+      "definition":"Bachelor of General Studies"
+   },
+   {
+      "abbreviation":"B.H.E.",
+      "definition":"Bachelor of Home Economics"
+   },
+   {
+      "abbreviation":"B.H.K.",
+      "definition":"Bachelor of Human Kinetics"
+   },
+   {
+      "abbreviation":"B.H.Sc.",
+      "definition":"Bachelor of Household Science"
+   },
+   {
+      "abbreviation":"B.I.D.",
+      "definition":"Bachelor of Industrial Design"
+   },
+   {
+      "abbreviation":"B.I.S.",
+      "definition":"Bachelor of Independent Study"
+   },
+   {
+      "abbreviation":"B.J.",
+      "definition":"Bachelor of Journalism"
+   },
+   {
+      "abbreviation":"B.J.C.",
+      "definition":"Bachelor in Canon Law"
+   },
+   {
+      "abbreviation":"B.L.",
+      "definition":"Bachelor in Literature; also Laws"
+   },
+   {
+      "abbreviation":"B.L.A.",
+      "definition":"Bachelor of Landscape Architecture"
+   },
+   {
+      "abbreviation":"B.L.S.",
+      "definition":"Bachelor of Library Science"
+   },
+   {
+      "abbreviation":"B.Litt.",
+      "definition":"Bachelor of Letters; also Literature"
+   },
+   {
+      "abbreviation":"B.M.",
+      "definition":"Bachelor of Medicine"
+   },
+   {
+      "abbreviation":"B.M.E.",
+      "definition":"Bachelor of Mechanical Engineering "
+   },
+   {
+      "abbreviation":"B.M.V.",
+      "definition":"Bachelier en médecine vétérinaire"
+   },
+   {
+      "abbreviation":"B.Math.",
+      "definition":"Bachelor of Mathematics"
+   },
+   {
+      "abbreviation":"B.Mgmt.",
+      "definition":"Bachelor of Management"
+   },
+   {
+      "abbreviation":"B.Mus.",
+      "definition":"Bachelor of Music"
+   },
+   {
+      "abbreviation":"B.N.",
+      "definition":"Bachelor of Nursing"
+   },
+   {
+      "abbreviation":"B.N.A.",
+      "definition":"British North America"
+   },
+   {
+      "abbreviation":"B.P.A.",
+      "definition":"Bachelor of Public Administration"
+   },
+   {
+      "abbreviation":"B.P.E.",
+      "definition":"Bachelor of Physical Education"
+   },
+   {
+      "abbreviation":"B.P.H.E.",
+      "definition":"Bachelor of Physical and Health Education"
+   },
+   {
+      "abbreviation":"B.P.R.",
+      "definition":"Bachelor of Public Relations"
+   },
+   {
+      "abbreviation":"B.Paed., B.Péd.",
+      "definition":"Bachelor of Pedagogy"
+   },
+   {
+      "abbreviation":"B.Ph.",
+      "definition":"Bachelor of Philosophy"
+   },
+   {
+      "abbreviation":"B.Q.",
+      "definition":"Bloc Québécois"
+   },
+   {
+      "abbreviation":"B.R.E.",
+      "definition":"Bachelor of Religious Education"
+   },
+   {
+      "abbreviation":"B.S.",
+      "definition":"Bachelor of Science (U.S.)"
+   },
+   {
+      "abbreviation":"B.S.A., B.Sc.A.",
+      "definition":"Bachelor of Science in Agriculture; also Accounting; also Administration"
+   },
+   {
+      "abbreviation":"B.S.B.A.",
+      "definition":"Bachelor of Science in Business Administration"
+   },
+   {
+      "abbreviation":"B.S.C.E.",
+      "definition":"Bachelor of Science in Civil Engineering"
+   },
+   {
+      "abbreviation":"B.S.E.E., B.Sc.E.E.",
+      "definition":"Bachelor of Science in Electrical Engineering"
+   },
+   {
+      "abbreviation":"B.S.Ed., B.S.E.",
+      "definition":"Bachelor of Science in Education"
+   },
+   {
+      "abbreviation":"B.S.F.",
+      "definition":"Bachelor of Science in Forestry"
+   },
+   {
+      "abbreviation":"B.S.M.E.",
+      "definition":"Bachelor of Science in Mechanical Engineering"
+   },
+   {
+      "abbreviation":"B.S.N.",
+      "definition":"Bachelor of Science in Nursing"
+   },
+   {
+      "abbreviation":"B.S.P.",
+      "definition":"Bachelor of Science in Pharmacy"
+   },
+   {
+      "abbreviation":"B.S.S.",
+      "definition":"Bachelor of Social Sciences"
+   },
+   {
+      "abbreviation":"B.S.T.",
+      "definition":"Bachelor of Sacred Theology"
+   },
+   {
+      "abbreviation":"B.S.W.",
+      "definition":"Bachelor of Social Work"
+   },
+   {
+      "abbreviation":"B.Sc.",
+      "definition":"Bachelor of Science"
+   },
+   {
+      "abbreviation":"B.Sc.A.",
+      "definition":"Bachelier ès sciences appliquées"
+   },
+   {
+      "abbreviation":"B.Sc.Agr.",
+      "definition":"Bachelor of Science in Agriculture"
+   },
+   {
+      "abbreviation":"B.Sc.Com.",
+      "definition":"Bachelor of Commercial Science"
+   },
+   {
+      "abbreviation":"B.Sc.D.",
+      "definition":"Bachelor of Science in Dentistry"
+   },
+   {
+      "abbreviation":"B.Sc.Eng.",
+      "definition":"Bachelor of Science in Engineering"
+   },
+   {
+      "abbreviation":"B.Sc.F., B.S.F.",
+      "definition":"Bachelor of Science in Forestry"
+   },
+   {
+      "abbreviation":"B.Sc.Kin.",
+      "definition":"Bachelor of Science in Kinesiology"
+   },
+   {
+      "abbreviation":"B.Sc.N., B.S.N.  ",
+      "definition":"Bachelor of Science in Nursing"
+   },
+   {
+      "abbreviation":"B.Sc.Phm.  ",
+      "definition":"Bachelor of Science in Pharmacy"
+   },
+   {
+      "abbreviation":"B.Sc.Soc.",
+      "definition":"Bachelor of Social Science"
+   },
+   {
+      "abbreviation":"B.Soc.Sc.",
+      "definition":"Bachelor of Social Science"
+   },
+   {
+      "abbreviation":"B.T. ",
+      "definition":"Bachelor of Teaching"
+   },
+   {
+      "abbreviation":"B.T., B.Th.",
+      "definition":"Bachelor of Theology"
+   },
+   {
+      "abbreviation":"B.Tech.",
+      "definition":"Bachelor of Technology"
+   },
+   {
+      "abbreviation":"B.V.A.",
+      "definition":"Bachelor of Visual Arts"
+   },
+   {
+      "abbreviation":"B.V.Sc.",
+      "definition":"Bachelor of Veterinary Science"
+   },
+   {
+      "abbreviation":"B.W.I.",
+      "definition":"British West Indies"
+   },
+   {
+      "abbreviation":"Bacc.",
+      "definition":"Baccalaureate"
+   },
+   {
+      "abbreviation":"Barr.",
+      "definition":"Barrister"
+   },
+   {
+      "abbreviation":"Bart.",
+      "definition":"Baronet"
+   },
+   {
+      "abbreviation":"Batty.",
+      "definition":"Battery"
+   },
+   {
+      "abbreviation":"Bgde.",
+      "definition":"Brigade"
+   },
+   {
+      "abbreviation":"Bn.",
+      "definition":"Battalion"
+   },
+   {
+      "abbreviation":"Bot.",
+      "definition":"Botany; Botanist; Botanical"
+   },
+   {
+      "abbreviation":"Brig.",
+      "definition":"Brigadier"
+   },
+   {
+      "abbreviation":"Brig.-Gen.",
+      "definition":"Brigadier-General"
+   },
+   {
+      "abbreviation":"Bt.",
+      "definition":"Brevet"
+   },
+   {
+      "abbreviation":"by-el.",
+      "definition":"By-election"
+   },
+   {
+      "abbreviation":"(C)",
+      "definition":"Canada"
+   },
+   {
+      "abbreviation":"C. in C.",
+      "definition":"Commander-in-Chief"
+   },
+   {
+      "abbreviation":"C. of C.",
+      "definition":"Chamber of Commerce"
+   },
+   {
+      "abbreviation":"C. of E.",
+      "definition":"Church of England"
+   },
+   {
+      "abbreviation":"C.A.",
+      "definition":"Chartered Accountant; Certified Archivist"
+   },
+   {
+      "abbreviation":"C.A.A.",
+      "definition":"Canadian Authors Association"
+   },
+   {
+      "abbreviation":"C.A.A.A.",
+      "definition":"Canadian Academic Accounting Association"
+   },
+   {
+      "abbreviation":"C.A.A.P.",
+      "definition":"Certified Advertising Agency Practitioner"
+   },
+   {
+      "abbreviation":"C.A.C.E.",
+      "definition":"Certificate in Adult and Continuing Education"
+   },
+   {
+      "abbreviation":"C.A.D.C.",
+      "definition":"Canadian Army Dental Corps"
+   },
+   {
+      "abbreviation":"C.A.E.",
+      "definition":"Certified Association Executive"
+   },
+   {
+      "abbreviation":"C.A.F.A.D.",
+      "definition":"Canadian Association of Fine Arts Deans"
+   },
+   {
+      "abbreviation":"C.A.M.C.",
+      "definition":"Canadian Army Medical Corps"
+   },
+   {
+      "abbreviation":"C.A.P.",
+      "definition":"Certificat d’Aptitude Pédagogique"
+   },
+   {
+      "abbreviation":"C.A.P.C.",
+      "definition":"Canadian Army Pay Corps"
+   },
+   {
+      "abbreviation":"C.A.S.C.",
+      "definition":"Canadian Army Service Corps"
+   },
+   {
+      "abbreviation":"C.A.S.W.",
+      "definition":"Canadian Association of Social Workers"
+   },
+   {
+      "abbreviation":"C.A.T.M.",
+      "definition":"Certified Advanced Technology Manager"
+   },
+   {
+      "abbreviation":"C.A.U.T.",
+      "definition":"Canadian Association of University Teachers"
+   },
+   {
+      "abbreviation":"C.B.",
+      "definition":"Companion of the Bath"
+   },
+   {
+      "abbreviation":"C.B.C.",
+      "definition":"Canadian Broadcasting Corporation"
+   },
+   {
+      "abbreviation":"C.B.C.P.",
+      "definition":"Certified Business Continuity Professional"
+   },
+   {
+      "abbreviation":"C.B.E.",
+      "definition":"Commander of the Order of the British Empire"
+   },
+   {
+      "abbreviation":"C.B.S.E.",
+      "definition":"Certified Building Service Executive"
+   },
+   {
+      "abbreviation":"C.B.V.",
+      "definition":"Chartered Business Valuator"
+   },
+   {
+      "abbreviation":"C.Biol.",
+      "definition":"Chartered Biologist"
+   },
+   {
+      "abbreviation":"C.C.",
+      "definition":"Companion of the Order of Canada; Compagnon de l’Ordre du Canada"
+   },
+   {
+      "abbreviation":"C.C.E.",
+      "definition":"Canadian Cinema Editors Hon. Society"
+   },
+   {
+      "abbreviation":"C.C.F.P.",
+      "definition":"Certificant of the College of Family Physicians"
+   },
+   {
+      "abbreviation":"C.C.H.S.E.",
+      "definition":"Canadian College of Health Service Executives"
+   },
+   {
+      "abbreviation":"C.C.L.",
+      "definition":"Canadian Congress of Labour"
+   },
+   {
+      "abbreviation":"C.C.O.",
+      "definition":"Chief Corporate Officer"
+   },
+   {
+      "abbreviation":"C.Cri.",
+      "definition":"Certficate in Criminology"
+   },
+   {
+      "abbreviation":"C.D.",
+      "definition":"Canadian Forces Decoration"
+   },
+   {
+      "abbreviation":"C.Dir.",
+      "definition":"Chartered Director"
+   },
+   {
+      "abbreviation":"C.E.",
+      "definition":"Civil Engineer"
+   },
+   {
+      "abbreviation":"C.E.C.",
+      "definition":"Certified Environmental Consultant"
+   },
+   {
+      "abbreviation":"C.E.F.",
+      "definition":"Canadian Expeditionary Force"
+   },
+   {
+      "abbreviation":"C.E.N.",
+      "definition":"Certified Emergency Nurse"
+   },
+   {
+      "abbreviation":"C.E.O.",
+      "definition":"Chief Executive Officer"
+   },
+   {
+      "abbreviation":"C.E.R.A.",
+      "definition":"Chartered Enterprise Risk Analyst "
+   },
+   {
+      "abbreviation":"C.E.S.",
+      "definition":"Certified Environmental Specialist; Certificat d’études Secondaires (France)"
+   },
+   {
+      "abbreviation":"C.E.S.A.",
+      "definition":"Certified Environmental Site Assessor"
+   },
+   {
+      "abbreviation":"C.E.S.O.",
+      "definition":"Canadian Executive Services Overseas"
+   },
+   {
+      "abbreviation":"C.Eng.",
+      "definition":"Certified Engineer"
+   },
+   {
+      "abbreviation":"C.F.A.",
+      "definition":"Canadian Field Artillery; Certified Financial Analyst; Chartered Financial Analyst "
+   },
+   {
+      "abbreviation":"C.F.E.",
+      "definition":"Certified Fraud Examiner"
+   },
+   {
+      "abbreviation":"C.F.L.",
+      "definition":"Canadian Football League"
+   },
+   {
+      "abbreviation":"C.F.O.",
+      "definition":"Chief Financial Officer"
+   },
+   {
+      "abbreviation":"C.F.P.",
+      "definition":"Chartered Financial Planner; Certified Financial Planner"
+   },
+   {
+      "abbreviation":"C.F.R.E.",
+      "definition":"Certified Fund Raising Executive"
+   },
+   {
+      "abbreviation":"C.G.A.",
+      "definition":"Certified General Accountant"
+   },
+   {
+      "abbreviation":"C.G.F.M.",
+      "definition":"Certified Government Financial Manager (U.S.)"
+   },
+   {
+      "abbreviation":"C.H.",
+      "definition":"Companion of Honour"
+   },
+   {
+      "abbreviation":"C.H.A.",
+      "definition":"Canadian Historical Association"
+   },
+   {
+      "abbreviation":"C.H.E.",
+      "definition":"Certified Health Executive"
+   },
+   {
+      "abbreviation":"C.H.F.C., Ch.F.C.",
+      "definition":"Chartered Financial Consultant"
+   },
+   {
+      "abbreviation":"C.H.R.P.",
+      "definition":"Certified Human Resources Professional"
+   },
+   {
+      "abbreviation":"C.I.A.",
+      "definition":"Certified Internal Auditor"
+   },
+   {
+      "abbreviation":"C.I.A.R.",
+      "definition":"Canadian Institute for Advanced Research"
+   },
+   {
+      "abbreviation":"C.I.B.",
+      "definition":"Chartered Insurance Broker"
+   },
+   {
+      "abbreviation":"C.I.C. ",
+      "definition":"Certified Infection Control Practitioner"
+   },
+   {
+      "abbreviation":"C.I.C.A.",
+      "definition":"Canadian Institute of Chartered Accountants"
+   },
+   {
+      "abbreviation":"C.I.D.A.",
+      "definition":"Canadian International Development Agency"
+   },
+   {
+      "abbreviation":"C.I.F.",
+      "definition":"Canadian Institute of Forestry"
+   },
+   {
+      "abbreviation":"C.I.H.R.",
+      "definition":"Canadian Institutes of Health Research"
+   },
+   {
+      "abbreviation":"C.I.L.T.",
+      "definition":"Chartered Institute of Logistics and Transport"
+   },
+   {
+      "abbreviation":"C.I.M.",
+      "definition":"Certificate in Management; Certified Industrial Manager"
+   },
+   {
+      "abbreviation":"C.I.O.",
+      "definition":"Chief Information Officer"
+   },
+   {
+      "abbreviation":"C.I.P.",
+      "definition":"Certified Insurance Professional"
+   },
+   {
+      "abbreviation":"C.I.S.A.",
+      "definition":"Certified Info Systems Auditor"
+   },
+   {
+      "abbreviation":"C.I.T.P.",
+      "definition":"Certified International Trade Professional"
+   },
+   {
+      "abbreviation":"C.J.G.C.",
+      "definition":"Chevalier de Jérusalem de Grand-Croix"
+   },
+   {
+      "abbreviation":"C.L.A.",
+      "definition":"Canadian Library Association"
+   },
+   {
+      "abbreviation":"C.L.C.",
+      "definition":"Canadian Labour Congress"
+   },
+   {
+      "abbreviation":"C.L.J.",
+      "definition":"Commander of the Order of St. Lazarus of Jerusalem"
+   },
+   {
+      "abbreviation":"C.L.U.",
+      "definition":"Chartered Life Underwriter"
+   },
+   {
+      "abbreviation":"C.M.",
+      "definition":"Canada Medal; Member of the Order of Canada; Membre de l’Ordre du Canada; Master in Surgery"
+   },
+   {
+      "abbreviation":"C.M.A.",
+      "definition":"Certified Management Accountant; Canadian Medical Association; Canadian Management Association"
+   },
+   {
+      "abbreviation":"C.M.C.",
+      "definition":"Certified Management Consultant"
+   },
+   {
+      "abbreviation":"C.M.G.",
+      "definition":"Companion of St. Michael and St. George"
+   },
+   {
+      "abbreviation":"C.M.H.C.",
+      "definition":"Canada Mortgage and Housing Corporation"
+   },
+   {
+      "abbreviation":"C.M.M.",
+      "definition":"Commander of the Order of Military Merit"
+   },
+   {
+      "abbreviation":"C.M.O.S.",
+      "definition":"Canadian Meteorological and Oceanographic Society"
+   },
+   {
+      "abbreviation":"C.M.R.P.",
+      "definition":"Certified Marketing Research Professional"
+   },
+   {
+      "abbreviation":"C.N.I.B.",
+      "definition":"Canadian National Institute for the Blind"
+   },
+   {
+      "abbreviation":"C.N.R.",
+      "definition":"Canadian National Railways"
+   },
+   {
+      "abbreviation":"C.O.",
+      "definition":"Commanding Officer"
+   },
+   {
+      "abbreviation":"C.O.F.",
+      "definition":"Canadian Order of Foresters; Catholic Order of Foresters"
+   },
+   {
+      "abbreviation":"C.O.M.",
+      "definition":"Commander of the Order of Merit of the Police Forces"
+   },
+   {
+      "abbreviation":"C.O.O.",
+      "definition":"Chief Operating Officer"
+   },
+   {
+      "abbreviation":"C.O.T.C.",
+      "definition":"Canadian Officers’ Training Corps"
+   },
+   {
+      "abbreviation":"C.P.",
+      "definition":"Conseiller Privé"
+   },
+   {
+      "abbreviation":"C.P.A.",
+      "definition":"Certified Public Accountant; Certified Public Administrator"
+   },
+   {
+      "abbreviation":"C.P.C.",
+      "definition":"Conservative Party of Canada"
+   },
+   {
+      "abbreviation":"C.P.H.",
+      "definition":"Certificate in Public Health"
+   },
+   {
+      "abbreviation":"C.P.I.",
+      "definition":"Certified Property Inspector"
+   },
+   {
+      "abbreviation":"C.P.R.",
+      "definition":"Canadian Pacific Railway"
+   },
+   {
+      "abbreviation":"C.P.S.M.",
+      "definition":"Canadian Peacekeeping Service Medal"
+   },
+   {
+      "abbreviation":"C.Psych.",
+      "definition":"Certified Psychologist"
+   },
+   {
+      "abbreviation":"C.Q.",
+      "definition":"Chevalier de l’Ordre national du Québec"
+   },
+   {
+      "abbreviation":"C.R.",
+      "definition":"Conseil de la reine"
+   },
+   {
+      "abbreviation":"C.R.A.",
+      "definition":"Canadian Residential Appraiser"
+   },
+   {
+      "abbreviation":"C.R.M.",
+      "definition":"Canadian Risk Manager"
+   },
+   {
+      "abbreviation":"C.R.S.P.",
+      "definition":"Canadian Registered Safety Professional"
+   },
+   {
+      "abbreviation":"C.R.T.C.",
+      "definition":"Canadian Radio-television and Telecommunications Commission"
+   },
+   {
+      "abbreviation":"C.S.C., c.s.c.",
+      "definition":"Canadian Securities Course; Canadian Society of Cinematographers"
+   },
+   {
+      "abbreviation":"C.S.C.E.",
+      "definition":"Canadian Society for Chemical Engineering"
+   },
+   {
+      "abbreviation":"C.S.I.",
+      "definition":"Companion of the Order of the Star of India"
+   },
+   {
+      "abbreviation":"C.S.O.",
+      "definition":"Chief Scientific Officer"
+   },
+   {
+      "abbreviation":"C.S.P.",
+      "definition":"Certified Systems Professional"
+   },
+   {
+      "abbreviation":"C.S.P.Q.",
+      "definition":"Certificat spécialiste Province du Québec"
+   },
+   {
+      "abbreviation":"C.S.P.W.C.",
+      "definition":"Canadian Society of Painters in Water Colour"
+   },
+   {
+      "abbreviation":"C.S.R.",
+      "definition":"Chartered Stenographic Reporter"
+   },
+   {
+      "abbreviation":"C.St.J.",
+      "definition":"Commander of the Order of St. John "
+   },
+   {
+      "abbreviation":"C.T.C.",
+      "definition":"Certified Travel Counsellor"
+   },
+   {
+      "abbreviation":"C.T.F.",
+      "definition":"Canadian Teachers’ Federation"
+   },
+   {
+      "abbreviation":"C.U.P.E.",
+      "definition":"Canadian Union of Public Employees"
+   },
+   {
+      "abbreviation":"C.U.S.O.",
+      "definition":"Canadian University Students Overseas"
+   },
+   {
+      "abbreviation":"C.V.O.",
+      "definition":"Companion of the Royal Victorian Order"
+   },
+   {
+      "abbreviation":"C.V.S.M.",
+      "definition":"Canadian Voluntary Service Medal"
+   },
+   {
+      "abbreviation":"CANSCAIP",
+      "definition":"Canadian Society of Children’s Artists, Illustrators and Performers "
+   },
+   {
+      "abbreviation":"CAPAC",
+      "definition":"Composers, Authors and Publishers Association of Canada"
+   },
+   {
+      "abbreviation":"CARAS",
+      "definition":"Canadian Academy of Recording Arts and Sciences"
+   },
+   {
+      "abbreviation":"CARFAC",
+      "definition":"Canadian Artists’ Representation/Le front des artistes canadiens"
+   },
+   {
+      "abbreviation":"CCLP",
+      "definition":"CITT-Certified Logistics Professionals"
+   },
+   {
+      "abbreviation":"Cer.E.",
+      "definition":"Ceramic Engineer"
+   },
+   {
+      "abbreviation":"Cert.",
+      "definition":"Certificate; Certified"
+   },
+   {
+      "abbreviation":"Ch.B.",
+      "definition":"Bachelor of Surgery"
+   },
+   {
+      "abbreviation":"Ch.M.",
+      "definition":"Mastery of Surgery"
+   },
+   {
+      "abbreviation":"Chev.",
+      "definition":"Chevalier"
+   },
+   {
+      "abbreviation":"Chim.",
+      "definition":"Chimie; Chimique; Chimiste"
+   },
+   {
+      "abbreviation":"Chirurg.",
+      "definition":"Chirurgical; Chirurgien"
+   },
+   {
+      "abbreviation":"Chrmn.",
+      "definition":"Chairman"
+   },
+   {
+      "abbreviation":"Cie.",
+      "definition":"Compagnie"
+   },
+   {
+      "abbreviation":"CIPP/C ",
+      "definition":"Certified Information Privacy Professional/Canada "
+   },
+   {
+      "abbreviation":"Clin.",
+      "definition":"Clinical; Clinic"
+   },
+   {
+      "abbreviation":"Clk.",
+      "definition":"Clerk"
+   },
+   {
+      "abbreviation":"Co.",
+      "definition":"County; Company"
+   },
+   {
+      "abbreviation":"Coll.",
+      "definition":"College; Collegiate"
+   },
+   {
+      "abbreviation":"Cons.",
+      "definition":"Conservative; Conservateur; Consultant"
+   },
+   {
+      "abbreviation":"Cpl.",
+      "definition":"Corporal"
+   },
+   {
+      "abbreviation":"cr. ",
+      "definition":"Created"
+   },
+   {
+      "abbreviation":"Cytol.",
+      "definition":"Cytology; Cytological; Cytologist"
+   },
+   {
+      "abbreviation":"d.",
+      "definition":"Daughter"
+   },
+   {
+      "abbreviation":"D.A.",
+      "definition":"Doctor of Archaeology; Doctor of Anesthesia "
+   },
+   {
+      "abbreviation":"D.A.",
+      "definition":"Doctor of Arts"
+   },
+   {
+      "abbreviation":"D.A.A. & Q.M.G.",
+      "definition":"Deputy Assistant-Adjutant and Quartermaster-General"
+   },
+   {
+      "abbreviation":"D.A.A.G.",
+      "definition":"Deputy Assistant-Adjutant-General"
+   },
+   {
+      "abbreviation":"D.A.B.P.N.",
+      "definition":"Diplomate of the American Board of Psychiatry and Neurology"
+   },
+   {
+      "abbreviation":"D.A.D.M.S.",
+      "definition":"Deputy Assistant Director of Medical Services"
+   },
+   {
+      "abbreviation":"D.A.G.",
+      "definition":"Deputy Adjutant-General"
+   },
+   {
+      "abbreviation":"D.A.Q.M.G.",
+      "definition":"Deputy-Assistant Quartermaster-General"
+   },
+   {
+      "abbreviation":"D.A.Sc.",
+      "definition":"Doctor in Agricultural Sciences"
+   },
+   {
+      "abbreviation":"D.Adm.",
+      "definition":"Doctor of Administration"
+   },
+   {
+      "abbreviation":"D.Av.Med.",
+      "definition":"Doctor of Aviation Medicine"
+   },
+   {
+      "abbreviation":"D.B.A.",
+      "definition":"Doctor of Business Administration"
+   },
+   {
+      "abbreviation":"D.C.",
+      "definition":"Doctor of Chiropractic"
+   },
+   {
+      "abbreviation":"D.C.H.",
+      "definition":"Diploma in Child Health"
+   },
+   {
+      "abbreviation":"D.C.L.",
+      "definition":"Doctor of Common Law; Doctor of Civil Law"
+   },
+   {
+      "abbreviation":"D.C.M.",
+      "definition":"Distinguished Conduct Medal"
+   },
+   {
+      "abbreviation":"D.C.S.",
+      "definition":"Doctor of Commercial Science"
+   },
+   {
+      "abbreviation":"D.C.T.",
+      "definition":"Doctor of Christian Theology"
+   },
+   {
+      "abbreviation":"D.Child.Psych.",
+      "definition":"Diploma in Child Psychiatry"
+   },
+   {
+      "abbreviation":"D.Cl.Chem.",
+      "definition":"Diploma in Clinical Chemistry"
+   },
+   {
+      "abbreviation":"D.Cn.L.",
+      "definition":"Doctor of Canon Law"
+   },
+   {
+      "abbreviation":"D.Comm.",
+      "definition":"Doctor of Commerce"
+   },
+   {
+      "abbreviation":"D.D.",
+      "definition":"Doctor of Divinity"
+   },
+   {
+      "abbreviation":"D.D.C.",
+      "definition":"Docteur en Droit Canonique"
+   },
+   {
+      "abbreviation":"D.D.M.S.",
+      "definition":"Deputy Director of Medical Services"
+   },
+   {
+      "abbreviation":"D.D.P.H.",
+      "definition":"Diploma in Dental Public Health"
+   },
+   {
+      "abbreviation":"D.D.S.",
+      "definition":"Doctor of Dental Surgery"
+   },
+   {
+      "abbreviation":"D.D.Sc.",
+      "definition":"Doctor of Dental Science"
+   },
+   {
+      "abbreviation":"D.de l’Un.",
+      "definition":"Doctorat de l’Université"
+   },
+   {
+      "abbreviation":"D.E.A.",
+      "definition":"Diplôme d’études approfondies"
+   },
+   {
+      "abbreviation":"D.E.C.",
+      "definition":"Diplôme d’études collégiales"
+   },
+   {
+      "abbreviation":"D.E.S.",
+      "definition":"Diplôme d’études supérieures; Doctor of Environmental Studies"
+   },
+   {
+      "abbreviation":"D.E.S.S.",
+      "definition":"Diplôme d’études supérieures spécialisées "
+   },
+   {
+      "abbreviation":"D.Ed.",
+      "definition":"Doctor of Education"
+   },
+   {
+      "abbreviation":"D.en Méd. Vét.",
+      "definition":"Docteur en médecine vétérinaire"
+   },
+   {
+      "abbreviation":"D.en Ph.",
+      "definition":"Docteur en Philosophie"
+   },
+   {
+      "abbreviation":"D.Eng.",
+      "definition":"Doctor of Engineering"
+   },
+   {
+      "abbreviation":"D.Env.Sts.",
+      "definition":"Honorary Doctorate of Environmental Studies"
+   },
+   {
+      "abbreviation":"D.ès A. ",
+      "definition":"Diplôme ès arts"
+   },
+   {
+      "abbreviation":"D.ès L.",
+      "definition":"Docteur ès Lettres"
+   },
+   {
+      "abbreviation":"D.F.A.",
+      "definition":"Doctor of Fine Arts"
+   },
+   {
+      "abbreviation":"D.F.C.",
+      "definition":"Distinguished Flying Cross"
+   },
+   {
+      "abbreviation":"D.F.S.",
+      "definition":"Doctor of Forest Science "
+   },
+   {
+      "abbreviation":"D.F.Sc.",
+      "definition":"Doctor of Financial Science "
+   },
+   {
+      "abbreviation":"D.G.M.",
+      "definition":"Deputy Grand Master"
+   },
+   {
+      "abbreviation":"D.Gén.",
+      "definition":"Doctorat en Génie"
+   },
+   {
+      "abbreviation":"D.H.",
+      "definition":"Doctor of Humanities"
+   },
+   {
+      "abbreviation":"D.H.L.",
+      "definition":"Doctor of Hebrew Literature; Doctor of Humane Letters"
+   },
+   {
+      "abbreviation":"D.Hum.L., D.Hum.Litt.",
+      "definition":"Doctor of Humane Letters"
+   },
+   {
+      "abbreviation":"D.I.C.",
+      "definition":"Diploma of Imperial College"
+   },
+   {
+      "abbreviation":"D.I.H.",
+      "definition":"Diploma in Industrial Health"
+   },
+   {
+      "abbreviation":"D.Ing.",
+      "definition":"Doctor of Engineering (France)"
+   },
+   {
+      "abbreviation":"D.J.C.",
+      "definition":"Doctor of Canon Law"
+   },
+   {
+      "abbreviation":"D.L.",
+      "definition":"Doctor of Civil Law"
+   },
+   {
+      "abbreviation":"D.L.F.A.P.A. ",
+      "definition":"Distinguished Life Fellow of the American Psychiatric Association"
+   },
+   {
+      "abbreviation":"D.L.S.",
+      "definition":"Dominion Land Surveyor"
+   },
+   {
+      "abbreviation":"D.Lit., D.Litt.",
+      "definition":"Doctor of Literature; Doctor of Letters"
+   },
+   {
+      "abbreviation":"D.Litt.S.",
+      "definition":"Doctor of Sacred Literature"
+   },
+   {
+      "abbreviation":"D.M.",
+      "definition":"Doctorate Médecine; Doctorate of Music (Honorary)"
+   },
+   {
+      "abbreviation":"D.M.A.",
+      "definition":"Doctor of Musical Arts"
+   },
+   {
+      "abbreviation":"D.M.D.",
+      "definition":"Doctor of Dental Medicine"
+   },
+   {
+      "abbreviation":"D.M.R.",
+      "definition":"Diploma in Medical Radiology"
+   },
+   {
+      "abbreviation":"D.M.S.",
+      "definition":"Doctor of Medical Science"
+   },
+   {
+      "abbreviation":"D.Man.Sc.",
+      "definition":"Doctor of Management Sciences"
+   },
+   {
+      "abbreviation":"D.Mus.",
+      "definition":"Doctorat en musique"
+   },
+   {
+      "abbreviation":"D.Mus.É.",
+      "definition":"Doctorat en musique éducationale"
+   },
+   {
+      "abbreviation":"D.O.",
+      "definition":"Doctor of Osteopathy"
+   },
+   {
+      "abbreviation":"D.O.C.",
+      "definition":"District Officer Commanding"
+   },
+   {
+      "abbreviation":"D.P.A.",
+      "definition":"Doctor of Public Administration"
+   },
+   {
+      "abbreviation":"D.P.H.",
+      "definition":"Doctor of Public Health; Diploma in Public Health"
+   },
+   {
+      "abbreviation":"D.P.H.N.",
+      "definition":"Doctor of Public Health Nursing"
+   },
+   {
+      "abbreviation":"D.P.S.",
+      "definition":"Doctor of Public Service"
+   },
+   {
+      "abbreviation":"D.P.Sc.",
+      "definition":"Doctor of Political, Social and Economic Sciences"
+   },
+   {
+      "abbreviation":"D.Paed.(Péd.)",
+      "definition":"Doctor of Pedagogy"
+   },
+   {
+      "abbreviation":"D.Ph., D.Phil.",
+      "definition":"Doctor of Philosophy"
+   },
+   {
+      "abbreviation":"D.Psych.",
+      "definition":"Doctor of Psychiatry; Diploma in Psychiatry"
+   },
+   {
+      "abbreviation":"D.S.A.",
+      "definition":"Docteur ès Science Agricole; Docteur ès Science Appliquées"
+   },
+   {
+      "abbreviation":"D.S.C.",
+      "definition":"Distinguished Service Cross"
+   },
+   {
+      "abbreviation":"D.S.E.F.",
+      "definition":"Diplôme supérieur d’études françaises"
+   },
+   {
+      "abbreviation":"D.S.L.",
+      "definition":"Doctor of Sacred Letters"
+   },
+   {
+      "abbreviation":"D.S.O.",
+      "definition":"Companion of the Distinguished Service Order"
+   },
+   {
+      "abbreviation":"D.S.S.",
+      "definition":"Doctor of Sacred Scripture"
+   },
+   {
+      "abbreviation":"D.S.W.",
+      "definition":"Doctorate in Social Work"
+   },
+   {
+      "abbreviation":"D.Sc.",
+      "definition":"Doctor of Science"
+   },
+   {
+      "abbreviation":"D.Sc.Adm.",
+      "definition":"Doctor of Administrative Sciences"
+   },
+   {
+      "abbreviation":"D.Sc.C(om).",
+      "definition":"Doctor of Commercial Science"
+   },
+   {
+      "abbreviation":"D.Sc.Fin.",
+      "definition":"Doctor of Financial Science"
+   },
+   {
+      "abbreviation":"D.Sc.Mil.",
+      "definition":"Doctor of Military Science"
+   },
+   {
+      "abbreviation":"D.Sc.Nat.",
+      "definition":"Doctor of Natural Science"
+   },
+   {
+      "abbreviation":"D.Sc.P.",
+      "definition":"Doctor of Political Science"
+   },
+   {
+      "abbreviation":"D.Sc.Soc.",
+      "definition":"Doctor of Social Science"
+   },
+   {
+      "abbreviation":"D.St.J.",
+      "definition":"Dame of the Order of St. John"
+   },
+   {
+      "abbreviation":"D.Th., D.Theol.",
+      "definition":"Doctor of Theology"
+   },
+   {
+      "abbreviation":"D.U.",
+      "definition":"Docteur d’Université"
+   },
+   {
+      "abbreviation":"D.Univ.(Paris)",
+      "definition":"Doctor of the University (Paris)"
+   },
+   {
+      "abbreviation":"D.V.M.",
+      "definition":"Doctor of Veterinary Medicine"
+   },
+   {
+      "abbreviation":"D.V.Sc.",
+      "definition":"Doctor of Veterinary Science"
+   },
+   {
+      "abbreviation":"D-ABFDE",
+      "definition":"Diplomate of the American Board of Forensic Document Examiners"
+   },
+   {
+      "abbreviation":"dec’d.",
+      "definition":"Deceased"
+   },
+   {
+      "abbreviation":"def.",
+      "definition":"Defeated; Défaite"
+   },
+   {
+      "abbreviation":"Dent.",
+      "definition":"Dentist; Dental; Dentistry"
+   },
+   {
+      "abbreviation":"DGC",
+      "definition":"Directors Guild of Canada"
+   },
+   {
+      "abbreviation":"D-I.I.F.E.S.",
+      "definition":"Diplomate of the International Institute of Forensic Engineering Science  "
+   },
+   {
+      "abbreviation":"Dip.Bus.Admin.",
+      "definition":"Diploma in Business Administration"
+   },
+   {
+      "abbreviation":"Dip.C.S.",
+      "definition":"Diploma in Child Study"
+   },
+   {
+      "abbreviation":"Dip.Crim.",
+      "definition":"Diploma in Criminology"
+   },
+   {
+      "abbreviation":"Dip.Ed.",
+      "definition":"Diploma in Education"
+   },
+   {
+      "abbreviation":"Dip.L.A.T.",
+      "definition":"Diploma in Landscape Architecture Technology"
+   },
+   {
+      "abbreviation":"Dip.Lsc.",
+      "definition":"Diploma in Life Sciences (U.K.) "
+   },
+   {
+      "abbreviation":"Dip.Operat.Perf.",
+      "definition":"Diploma in Operatic Performance"
+   },
+   {
+      "abbreviation":"Dip.Psych. ",
+      "definition":"Diploma in Psychiatry"
+   },
+   {
+      "abbreviation":"Dip.R.E.E.S.",
+      "definition":"Diploma in Russian and East European Studies"
+   },
+   {
+      "abbreviation":"Dip.R.M.",
+      "definition":"Diploma in Resource Management"
+   },
+   {
+      "abbreviation":"Dip.Tech.Ed.",
+      "definition":"Diploma in Technical Education"
+   },
+   {
+      "abbreviation":"Dip.Trl.",
+      "definition":"Diploma in Translation"
+   },
+   {
+      "abbreviation":"Doct. Arch.",
+      "definition":"Doctor of Christian Archeology (Pontifical Institute, Rome)"
+   },
+   {
+      "abbreviation":"Dom.",
+      "definition":"Dominion"
+   },
+   {
+      "abbreviation":"Dr. de l’U.",
+      "definition":"Doctor of the University (Paris)"
+   },
+   {
+      "abbreviation":"Dr. ès Lettres",
+      "definition":"Doctor of Letters (History of Literature)"
+   },
+   {
+      "abbreviation":"Dr.Com.Sc.",
+      "definition":"Doctor of Commercial Science"
+   },
+   {
+      "abbreviation":"Dr.-Ing.",
+      "definition":"Doktor-Ingenieur/Doctor of Engineering"
+   },
+   {
+      "abbreviation":"Dr.jur.",
+      "definition":"Doctor Juris"
+   },
+   {
+      "abbreviation":"Dr.P.H.",
+      "definition":"Doctor of Public Health; Doctor of Public Hygiene"
+   },
+   {
+      "abbreviation":"Dr.rer.nat.",
+      "definition":"Doctor of Natural Sciences"
+   },
+   {
+      "abbreviation":"Dr.rer.pol.",
+      "definition":"Doctor of Political Economy (Dr. Rerum Politicarum)"
+   },
+   {
+      "abbreviation":"Drs.",
+      "definition":"Doctorandus (Netherlands)"
+   },
+   {
+      "abbreviation":"E.",
+      "definition":"East; Eastern"
+   },
+   {
+      "abbreviation":"e.",
+      "definition":"Educated; Eldest; Elder"
+   },
+   {
+      "abbreviation":"é.",
+      "definition":"Éduqué(e); Éducation"
+   },
+   {
+      "abbreviation":"E.C.E.",
+      "definition":"Diploma in Early Childhood Education"
+   },
+   {
+      "abbreviation":"E.D.",
+      "definition":"Efficiency Decoration"
+   },
+   {
+      "abbreviation":"E.E.",
+      "definition":"Electrical Engineer"
+   },
+   {
+      "abbreviation":"E.E.C.",
+      "definition":"European Economic Community"
+   },
+   {
+      "abbreviation":"E.M. ",
+      "definition":"Efficiency Medal; Mining Engineer "
+   },
+   {
+      "abbreviation":"Ecol.",
+      "definition":"Ecology; Ecological; Ecologist"
+   },
+   {
+      "abbreviation":"Econ.",
+      "definition":"Economy; Economics; Economical; Economist"
+   },
+   {
+      "abbreviation":"Ed.D.",
+      "definition":"Doctor of Education"
+   },
+   {
+      "abbreviation":"Ed.M.",
+      "definition":"Master of Education (U.S.)"
+   },
+   {
+      "abbreviation":"el.",
+      "definition":"Election; Elected; Electoral"
+   },
+   {
+      "abbreviation":"ép.",
+      "definition":"Épous; Épouse; Épousé(e)"
+   },
+   {
+      "abbreviation":"Epis.",
+      "definition":"Episcopal; Episcopalian"
+   },
+   {
+      "abbreviation":"EPSRC",
+      "definition":"Engineering and Physical Sciences Research Council"
+   },
+   {
+      "abbreviation":"ESSEC",
+      "definition":"L'École supérieure des sciences économiques et commerciales "
+   },
+   {
+      "abbreviation":"Ethnol.",
+      "definition":"Ethnology; Ethnological; Ethnologist"
+   },
+   {
+      "abbreviation":"f.",
+      "definition":"Fils; Fille"
+   },
+   {
+      "abbreviation":"F.A.A.A.",
+      "definition":"Fellow of the American Academy of Allergy"
+   },
+   {
+      "abbreviation":"F.A.A.A.S.",
+      "definition":"Fellow of the American Association for the Advancement of Science"
+   },
+   {
+      "abbreviation":"F.A.A.N.",
+      "definition":"Fellow of the American Academy of Neurology"
+   },
+   {
+      "abbreviation":"F.A.A.O.",
+      "definition":"Fellow of the American Academy of Optometry"
+   },
+   {
+      "abbreviation":"F.A.A.P.",
+      "definition":"Fellow of the American Academy of Pediatrics"
+   },
+   {
+      "abbreviation":"F.A.A.S.",
+      "definition":"Fellow of the American Academy of Arts and Sciences"
+   },
+   {
+      "abbreviation":"F.A.B.M.G.",
+      "definition":"Fellow of the American Board of Medical Genetics"
+   },
+   {
+      "abbreviation":"F.A.C.C.",
+      "definition":"Fellow of the American College of Cardiology"
+   },
+   {
+      "abbreviation":"F.A.C.D.",
+      "definition":"Fellow of the American College of Dentistry"
+   },
+   {
+      "abbreviation":"F.A.C.E.",
+      "definition":"Fellow of the American College of Epidemiology"
+   },
+   {
+      "abbreviation":"F.A.C.H.A.",
+      "definition":"Fellow of the American College of Health Administrators"
+   },
+   {
+      "abbreviation":"F.A.C.H.E.",
+      "definition":"Fellow of the American College of Healthcare Executives"
+   },
+   {
+      "abbreviation":"F.A.C.M.I.",
+      "definition":"Fellow of the American College of Medical Informatics "
+   },
+   {
+      "abbreviation":"F.A.C.O.G.",
+      "definition":"Fellow of the American College of Obstetricians and Gynecologists"
+   },
+   {
+      "abbreviation":"F.A.C.P.",
+      "definition":"Fellow of the American College of Physicians"
+   },
+   {
+      "abbreviation":"F.A.C.R.",
+      "definition":"Fellow of the American College of Radiology"
+   },
+   {
+      "abbreviation":"F.A.C.S.",
+      "definition":"Fellow of the American College of Surgeons"
+   },
+   {
+      "abbreviation":"F.A.C.S.M.",
+      "definition":"Fellow of the American College of Sports Medicine"
+   },
+   {
+      "abbreviation":"F.A.C.T.L.",
+      "definition":"Fellow of the American College of Trial Lawyers"
+   },
+   {
+      "abbreviation":"F.A.E.",
+      "definition":"Fellow of the Accountants and Executives Corporation of Canada"
+   },
+   {
+      "abbreviation":"F.A.G.O.",
+      "definition":"Fellow of the American Guild of Organists"
+   },
+   {
+      "abbreviation":"F.A.G.S.",
+      "definition":"Fellow of the American Geographical Society"
+   },
+   {
+      "abbreviation":"F.A.H.A.",
+      "definition":"Fellow of the American Heart Association"
+   },
+   {
+      "abbreviation":"F.A.H.P.",
+      "definition":"Fellow of the Association of Healthcare Philanthropy"
+   },
+   {
+      "abbreviation":"F.A.I.A.",
+      "definition":"Fellow of the American Institute of Architects"
+   },
+   {
+      "abbreviation":"F.A.I.C.",
+      "definition":"Fellow of the Agricultural Institute of Canada"
+   },
+   {
+      "abbreviation":"F.A.P.H.A.",
+      "definition":"Fellow of the American Public Health Association"
+   },
+   {
+      "abbreviation":"F.A.P.S.",
+      "definition":"Fellow of the American Physical Society"
+   },
+   {
+      "abbreviation":"F.A.S.A.B.E.",
+      "definition":"Fellow, American Society of Agricultural & Biological Engineers"
+   },
+   {
+      "abbreviation":"F.A.S.C.E.",
+      "definition":"Fellow of the American Society of Civil Engineers"
+   },
+   {
+      "abbreviation":"F.A.S.C.P.",
+      "definition":"Fellow of the American Society of Consultant Pharmacists"
+   },
+   {
+      "abbreviation":"F.A.S.M.",
+      "definition":"Fellow of the American Society for Metals"
+   },
+   {
+      "abbreviation":"F.A.S.M.E.",
+      "definition":"Fellow of the American Society of Mechanical Engineering"
+   },
+   {
+      "abbreviation":"F.A.Z.R.A.",
+      "definition":"Fellow, Applied Zoologists Research Association"
+   },
+   {
+      "abbreviation":"F.AINA",
+      "definition":"Fellow,  Arctic Institute of North America"
+   },
+   {
+      "abbreviation":"F.ASTM",
+      "definition":"American Society for Testing and Materials"
+   },
+   {
+      "abbreviation":"F.B.A.",
+      "definition":"Fellow of the British Academy"
+   },
+   {
+      "abbreviation":"F.B.O.A.",
+      "definition":"Fellow of the British Optical Association"
+   },
+   {
+      "abbreviation":"F.B.O.U.",
+      "definition":"Fellow of the British Ornithologists Union"
+   },
+   {
+      "abbreviation":"F.B.Ps.S.",
+      "definition":"Fellow of the British Psychological Society"
+   },
+   {
+      "abbreviation":"F.B.S.C.",
+      "definition":"Fellow of the British Society of Commerce"
+   },
+   {
+      "abbreviation":"F.Brit.I.R.E.",
+      "definition":"Fellow of the British Institution of Radio Engineers"
+   },
+   {
+      "abbreviation":"F.C.A.",
+      "definition":"Fellow of the Institute of Chartered Accountants"
+   },
+   {
+      "abbreviation":"F.C.A.E.",
+      "definition":"Fellow of the Canadian Academy of Engineering"
+   },
+   {
+      "abbreviation":"F.C.A.H.S.",
+      "definition":"Fellow of the Canadian Academy of Health Sciences"
+   },
+   {
+      "abbreviation":"F.C.A.S.I.",
+      "definition":"Fellow of the Canadian Aeronautics and Space Institute"
+   },
+   {
+      "abbreviation":"F.C.B.A.",
+      "definition":"Fellow of the Canadian Bankers Association"
+   },
+   {
+      "abbreviation":"F.C.B.V.",
+      "definition":"Fellow of the Canadian Institute of Chartered Business Valuators"
+   },
+   {
+      "abbreviation":"F.C.C.A.",
+      "definition":"Fellow of the Association of Chartered Certified Accountants"
+   },
+   {
+      "abbreviation":"F.C.C.H.S.E.",
+      "definition":"Fellow of the Canadian College of Health Service Executives"
+   },
+   {
+      "abbreviation":"F.C.C.M.G.",
+      "definition":"Fellow of the Canadian College of Medical Geneticists "
+   },
+   {
+      "abbreviation":"F.C.C.O.",
+      "definition":"Fellow of the Canadian College of Organists"
+   },
+   {
+      "abbreviation":"F.C.F.P.",
+      "definition":"Fellow of the College of Family Physicians of Canada "
+   },
+   {
+      "abbreviation":"F.C.G.A.",
+      "definition":"Fellow of the Certified General Accountants of Canada"
+   },
+   {
+      "abbreviation":"F.C.I.",
+      "definition":"Fellow of the Canadian Credit Institute"
+   },
+   {
+      "abbreviation":"F.C.I.A.",
+      "definition":"Fellow of the Canadian Institute of Actuaries"
+   },
+   {
+      "abbreviation":"F.C.I.A.R.",
+      "definition":"Felow, Canadian Institute of Advanced Research"
+   },
+   {
+      "abbreviation":"F.C.I.Arb.",
+      "definition":"Fellow of the Chartered Institute of Arbitrators (U.K.)"
+   },
+   {
+      "abbreviation":"F.C.I.C.",
+      "definition":"Fellow of the Chemical Institute of Canada"
+   },
+   {
+      "abbreviation":"F.C.I.I.",
+      "definition":"Fellow of the Chartered Insurance Institute"
+   },
+   {
+      "abbreviation":"F.C.I.P. or FCIP",
+      "definition":"Fellow, Chartered Insurance Professional"
+   },
+   {
+      "abbreviation":"F.C.I.S.",
+      "definition":"Fellow of the Chartered Institute of Secretaries"
+   },
+   {
+      "abbreviation":"F.C.M.A.",
+      "definition":"Fellow of the Society of Management Accountants"
+   },
+   {
+      "abbreviation":"F.C.N.R.S.",
+      "definition":"Fellow of the Canadian Numismatic Research Society"
+   },
+   {
+      "abbreviation":"F.C.P.A.",
+      "definition":"Fellow, Chartered Professional Accountant"
+   },
+   {
+      "abbreviation":"F.C.S.",
+      "definition":"Fellow of the Chemical Society"
+   },
+   {
+      "abbreviation":"F.C.S.A.",
+      "definition":"Fellow of the Canadian Society of Agronomy"
+   },
+   {
+      "abbreviation":"F.C.S.B.E.",
+      "definition":"Fellow, Canadian Society for Bioengineering"
+   },
+   {
+      "abbreviation":"F.C.S.C.E.",
+      "definition":"Fellow of the Canadian Society for Civil Engineering"
+   },
+   {
+      "abbreviation":"F.C.S.I.",
+      "definition":"Fellow of the Canadian Securities Institute"
+   },
+   {
+      "abbreviation":"F.C.S.L.A.",
+      "definition":"Fellow of the Canadian Society of Landscape Architects"
+   },
+   {
+      "abbreviation":"F.C.S.M.E. ",
+      "definition":"Fellow of the Canadian Society for Mechanical Engineering"
+   },
+   {
+      "abbreviation":"F.C.S.S.E.",
+      "definition":"Fellow, Canadian Society for Senior Engineers"
+   },
+   {
+      "abbreviation":"F.CIFST",
+      "definition":"Fellow, Canadian Institute of Food Science and Technology"
+   },
+   {
+      "abbreviation":"F.E.",
+      "definition":"Forest Engineer"
+   },
+   {
+      "abbreviation":"F.E.C.S.",
+      "definition":"Fellow of the Electrochemical Society"
+   },
+   {
+      "abbreviation":"F.E.I.C.",
+      "definition":"Fellow of the Engineering Institute of Canada"
+   },
+   {
+      "abbreviation":"F.E.S.",
+      "definition":"Fellow of the Entomological Society; Fellow of the Ethnological Society"
+   },
+   {
+      "abbreviation":"F.E.S.C.",
+      "definition":"Fellow of the European Society of Cardiology"
+   },
+   {
+      "abbreviation":"F.F.A.",
+      "definition":"Fellow of the Faculty of Actuaries (U.K.)"
+   },
+   {
+      "abbreviation":"F.F.P.S.",
+      "definition":"Fellow of the Royal Faculty of Physicians and Surgeons (U.K.)"
+   },
+   {
+      "abbreviation":"F.F.R.",
+      "definition":"Fellow of the Faculty of Radiologists"
+   },
+   {
+      "abbreviation":"F.G.A.",
+      "definition":"Fellow of the Gemmological Association"
+   },
+   {
+      "abbreviation":"F.G.D.C.",
+      "definition":"Fellow of the Society of Graphic Designers of Canada"
+   },
+   {
+      "abbreviation":"F.G.S.",
+      "definition":"Fellow of the Geological Society"
+   },
+   {
+      "abbreviation":"F.G.S.A.",
+      "definition":"Fellow of the Geological Society of America"
+   },
+   {
+      "abbreviation":"F.H.S.C.",
+      "definition":"Fellow of the Heraldry Society of Canada"
+   },
+   {
+      "abbreviation":"F.I.A.",
+      "definition":"Fellow of the Institute of Actuaries (U.K.)"
+   },
+   {
+      "abbreviation":"F.I.A.B.S.",
+      "definition":"Fellow, Indian Association of Biological Sciences"
+   },
+   {
+      "abbreviation":"F.I.A.Fo.S.T",
+      "definition":"Fellow, International Academy of Food Science & Technology"
+   },
+   {
+      "abbreviation":"F.I.A.L.",
+      "definition":"Fellow of the International Institute of Arts and Letters"
+   },
+   {
+      "abbreviation":"F.I.A.S.",
+      "definition":"Fellow of the Institute of Aeronautical Sciences (U.S.)"
+   },
+   {
+      "abbreviation":"F.I.Ae.S.",
+      "definition":"Fellow of the Institute of Aeronautical Sciences"
+   },
+   {
+      "abbreviation":"F.I.C.",
+      "definition":"Fellow of the Institute of Commerce"
+   },
+   {
+      "abbreviation":"F.I.C.B.",
+      "definition":"Fellow of the Institute of Canadian Bankers"
+   },
+   {
+      "abbreviation":"F.I.C.D.",
+      "definition":"Fellow of the International College of Dentists"
+   },
+   {
+      "abbreviation":"F.I.E.",
+      "definition":"Fellow of the Institution of Engineers (Australia)"
+   },
+   {
+      "abbreviation":"F.I.E.E.",
+      "definition":"Fellow of the Institute of Electrical Engineers"
+   },
+   {
+      "abbreviation":"F.I.I.A.",
+      "definition":"Fellow of the Institute of Industrial Administration"
+   },
+   {
+      "abbreviation":"F.I.I.C.",
+      "definition":"Fellow of the Insurance Institute of Canada"
+   },
+   {
+      "abbreviation":"F.I.I.F.C.",
+      "definition":"Fellow, International Institute in FRP for Construction"
+   },
+   {
+      "abbreviation":"F.I.I.S.L.",
+      "definition":"Fellow, International Institute of Space Law"
+   },
+   {
+      "abbreviation":"F.I.Inst.",
+      "definition":"Fellow of the Imperial Institute"
+   },
+   {
+      "abbreviation":"F.I.L.A.",
+      "definition":"Fellow of the Institute of Landscape Architects"
+   },
+   {
+      "abbreviation":"F.I.M.",
+      "definition":"Fellow of the Institute of Metals; Fellow of the Institute of Materials"
+   },
+   {
+      "abbreviation":"F.I.M.C.",
+      "definition":"Fellow of the Institute of Management Consultants"
+   },
+   {
+      "abbreviation":"F.I.M.M.M.",
+      "definition":"Fellow of the Institute of Materials, Minerals and Mining"
+   },
+   {
+      "abbreviation":"F.I.R.E.",
+      "definition":"Fellow of the Institution of Radio Engineers"
+   },
+   {
+      "abbreviation":"F.I.S.A.",
+      "definition":"Fellow of the Incorporated Secretaries Association"
+   },
+   {
+      "abbreviation":"F.I.S.A.E.",
+      "definition":"Fellow, Indian Society of Agricultural Engineers"
+   },
+   {
+      "abbreviation":"F.I.T.",
+      "definition":"Foundation for International Training"
+   },
+   {
+      "abbreviation":"F.Inst.P.",
+      "definition":"Fellow of the Institute of Physics"
+   },
+   {
+      "abbreviation":"F.Inst.Pet.",
+      "definition":"Fellow of the Institute of Petroleum"
+   },
+   {
+      "abbreviation":"F.ISHMII.",
+      "definition":"Fellow, International Society For Structural Health Monitoring of Intelligent Infrastructure"
+   },
+   {
+      "abbreviation":"F.L.A.",
+      "definition":"Fellow of the Library Association (U.K.)"
+   },
+   {
+      "abbreviation":"F.L.C.M.",
+      "definition":"Fellow of the London College of Music"
+   },
+   {
+      "abbreviation":"F.L.M.I.",
+      "definition":"Fellow of the Life Management Institute"
+   },
+   {
+      "abbreviation":"F.L.S.",
+      "definition":"Fellow of the Linnean Society"
+   },
+   {
+      "abbreviation":"F.M.S.A.",
+      "definition":"Fellow of the Mineralogical Society of America"
+   },
+   {
+      "abbreviation":"F.N.A.",
+      "definition":"Fellow of the North American Academy of Arts and Sciences"
+   },
+   {
+      "abbreviation":"F.N.A.A.S.",
+      "definition":"Fellow, National Academy of Agricultural Sciences (India) "
+   },
+   {
+      "abbreviation":"F.N.C.M. ",
+      "definition":"Fellow, National College of Music, (U.K.)"
+   },
+   {
+      "abbreviation":"F.N.F.C.F.",
+      "definition":"Fédération nationale des femmes canadiennes-françaises"
+   },
+   {
+      "abbreviation":"F.P.S.",
+      "definition":"Fellow of the Philosophical Society; Fellow of the Pathological Society (Great Britain & Ireland)"
+   },
+   {
+      "abbreviation":"F.Phys.S.",
+      "definition":"Fellow of the Physical Society"
+   },
+   {
+      "abbreviation":"F.R.A.I.",
+      "definition":"Fellow of the Royal Anthropological Institute"
+   },
+   {
+      "abbreviation":"F.R.A.I.C.",
+      "definition":"Fellow of the Royal Architectural Institute of Canada"
+   },
+   {
+      "abbreviation":"F.R.A.M.",
+      "definition":"Fellow of the Royal Academy of Music (U.K.)"
+   },
+   {
+      "abbreviation":"F.R.A.S.",
+      "definition":"Fellow of the Royal Astronomical Society; Fellow of the Royal Asiatic Society"
+   },
+   {
+      "abbreviation":"F.R.Ae.S.",
+      "definition":"Fellow of the Royal Aeronautical Society"
+   },
+   {
+      "abbreviation":"F.R.B.S.",
+      "definition":"Fellow of the Royal Botanic Society; Fellow of the Royal Society of British Sculptors"
+   },
+   {
+      "abbreviation":"F.R.C.C.O.",
+      "definition":"Fellow of the Royal Canadian College of Organists"
+   },
+   {
+      "abbreviation":"F.R.C.D.(C)",
+      "definition":"Fellow of the Royal College of Dentists (Canada)"
+   },
+   {
+      "abbreviation":"F.R.C.M.",
+      "definition":"Fellow of the Royal College of Music"
+   },
+   {
+      "abbreviation":"F.R.C.O.",
+      "definition":"Fellow of the Royal College of Organists"
+   },
+   {
+      "abbreviation":"F.R.C.O.G.",
+      "definition":"Fellow of the Royal College of Obstetricians and Gynaecologists "
+   },
+   {
+      "abbreviation":"F.R.C.P.",
+      "definition":"Fellow of the Royal College of Physicians"
+   },
+   {
+      "abbreviation":"F.R.C.S.",
+      "definition":"Fellow of the Royal College of Surgeons"
+   },
+   {
+      "abbreviation":"F.R.C.S.(C)",
+      "definition":"Fellow of the Royal College of Surgeons (Canada)"
+   },
+   {
+      "abbreviation":"F.R.C.V.S.",
+      "definition":"Fellow of the Royal College of Veterinary Surgeons"
+   },
+   {
+      "abbreviation":"F.R.E.S.",
+      "definition":"Fellow of the Royal Empire Society; Fellow of the Royal Entomological Society; Fellow of the Royal Economic Society"
+   },
+   {
+      "abbreviation":"F.R.G.D.",
+      "definition":"Fellow, Registered Graphic Designers of Ontario"
+   },
+   {
+      "abbreviation":"F.R.G.S.",
+      "definition":"Fellow of the Royal Geographic Society"
+   },
+   {
+      "abbreviation":"F.R.G.S.(C)",
+      "definition":"Fellow of the Royal Geographic Society (Canada)"
+   },
+   {
+      "abbreviation":"F.R.H.S.C.",
+      "definition":"Fellow of the Royal Heraldry Society of Canada"
+   },
+   {
+      "abbreviation":"F.R.Hist.S., F.R.H.S.",
+      "definition":"Fellow of the Royal Historical Society"
+   },
+   {
+      "abbreviation":"F.R.Hort.S.",
+      "definition":"Fellow of the Royal Horticultural Society"
+   },
+   {
+      "abbreviation":"F.R.I.B.A.",
+      "definition":"Fellow of the Royal Institute of British Architects"
+   },
+   {
+      "abbreviation":"F.R.I.C.",
+      "definition":"Fellow of the Royal Institute of Chemistry"
+   },
+   {
+      "abbreviation":"F.R.I.C.S.",
+      "definition":"Fellow of the Royal Institute of Chartered Surveyors"
+   },
+   {
+      "abbreviation":"F.R.I.P.H.H.",
+      "definition":"Fellow of the Royal Institute of Public Health and Hygiene"
+   },
+   {
+      "abbreviation":"F.R.M.S.",
+      "definition":"Fellow of the Royal Microscopical Society"
+   },
+   {
+      "abbreviation":"F.R.Met.S.",
+      "definition":"Fellow of the Royal Meteorological Society"
+   },
+   {
+      "abbreviation":"F.R.N.S.",
+      "definition":"Fellow of the Royal Numismatic Society"
+   },
+   {
+      "abbreviation":"F.R.P.S.L.",
+      "definition":"Fellow of the Royal Philatelic Society, London"
+   },
+   {
+      "abbreviation":"F.R.S.",
+      "definition":"Fellow of the Royal Society"
+   },
+   {
+      "abbreviation":"F.R.S.",
+      "definition":"Fellow, Royal Society (United Kingdom)"
+   },
+   {
+      "abbreviation":"F.R.S.A.",
+      "definition":"Fellow of the Royal Society of Arts"
+   },
+   {
+      "abbreviation":"F.R.S.C.",
+      "definition":"Fellow of the Royal Society of Canada "
+   },
+   {
+      "abbreviation":"F.R.S.C., F.R.S.Chem.",
+      "definition":"Fellow of the Royal Society of Chemistry (U.K.)"
+   },
+   {
+      "abbreviation":"F.R.S.E.",
+      "definition":"Fellow of the Royal Society of Edinburgh"
+   },
+   {
+      "abbreviation":"F.R.S.H.",
+      "definition":"Fellow of the Royal Society of Health"
+   },
+   {
+      "abbreviation":"F.R.S.L.",
+      "definition":"Fellow of the Royal Society of Literature"
+   },
+   {
+      "abbreviation":"F.R.S.M.",
+      "definition":"Fellow of the Royal Society of Medicine"
+   },
+   {
+      "abbreviation":"F.R.S.T.M.&H.",
+      "definition":"Fellow of the Royal Society of Tropical Medicine and Hygiene"
+   },
+   {
+      "abbreviation":"F.S.A.",
+      "definition":"Fellow of the Society of Antiquaries; Fellow of the Society of Actuaries (U.S.) "
+   },
+   {
+      "abbreviation":"F.S.A.A.",
+      "definition":"Fellow of the Society of Incorporated Accountants and Auditors"
+   },
+   {
+      "abbreviation":"F.S.B.",
+      "definition":"Fellow, Society of Biology"
+   },
+   {
+      "abbreviation":"F.S.E.",
+      "definition":"Fellow of the Society of Engineers"
+   },
+   {
+      "abbreviation":"F.S.M.A.C.",
+      "definition":"Fellow of the Society of Management Accountants of Canada"
+   },
+   {
+      "abbreviation":"F.S.P.I.E.",
+      "definition":"Fellow, Society of Photo-Optical Instrumentation Engineers"
+   },
+   {
+      "abbreviation":"F.S.S.",
+      "definition":"Fellow of the Royal Statistical Society"
+   },
+   {
+      "abbreviation":"F.T.C.L.",
+      "definition":"Fellow of the Trinity College of Music (London) "
+   },
+   {
+      "abbreviation":"F.Z.S.",
+      "definition":"Fellow of the Zoological Society"
+   },
+   {
+      "abbreviation":"FCAOT",
+      "definition":"Fellow, Canadian Association of Occupational Therapists"
+   },
+   {
+      "abbreviation":"FEC",
+      "definition":"Fellow of Engineers Canada"
+   },
+   {
+      "abbreviation":"FFSSoc.",
+      "definition":"Fellow of the Forensic Science Society"
+   },
+   {
+      "abbreviation":"FGC",
+      "definition":"Fellow of Geoscientists Canada"
+   },
+   {
+      "abbreviation":"FIIE",
+      "definition":"Fellow, Institution of Incorporated Engineers (U.K.)"
+   },
+   {
+      "abbreviation":"FISEAM",
+      "definition":"Fellow, International Society for Engineering Asset Management"
+   },
+   {
+      "abbreviation":"FNASc.",
+      "definition":"Fellow, National Academy of Sciences (India)"
+   },
+   {
+      "abbreviation":"FRCPC, F.R.C.P.(C)",
+      "definition":"Fellow of the Royal College of Physicians and Surgeons of Canada"
+   },
+   {
+      "abbreviation":"FSSocDip.",
+      "definition":"Forensic Science Society Diploma"
+   },
+   {
+      "abbreviation":"G.B.E.",
+      "definition":"Knight Grand Cross of the Order of the British Empire"
+   },
+   {
+      "abbreviation":"G.C.",
+      "definition":"George Cross"
+   },
+   {
+      "abbreviation":"G.C.F.C.",
+      "definition":"Guild of Canadian Film Composers"
+   },
+   {
+      "abbreviation":"G.C.I.E.",
+      "definition":"Knight Grand Commander of the Indian Empire"
+   },
+   {
+      "abbreviation":"G.C.M.G.",
+      "definition":"Knight Grand Cross of St. Michael and St. George"
+   },
+   {
+      "abbreviation":"G.C.S.I.",
+      "definition":"Knight Grand Commander of the Star of India"
+   },
+   {
+      "abbreviation":"G.C.St.J.",
+      "definition":"Bailiff or Dame Grand Cross of the Order of St. John"
+   },
+   {
+      "abbreviation":"G.C.V.O.",
+      "definition":"Knight Grand Cross of the Royal Victorian Order"
+   },
+   {
+      "abbreviation":"G.D.P.A.",
+      "definition":"Graduate Diploma in Public Accountancy"
+   },
+   {
+      "abbreviation":"g.e.",
+      "definition":"General Election"
+   },
+   {
+      "abbreviation":"G.H.Q.",
+      "definition":"General Headquarters"
+   },
+   {
+      "abbreviation":"G.J.",
+      "definition":"Graduate Jeweller"
+   },
+   {
+      "abbreviation":"G.M.",
+      "definition":"George Medal"
+   },
+   {
+      "abbreviation":"G.O.C.",
+      "definition":"General Officer Commanding"
+   },
+   {
+      "abbreviation":"G.O.Q.",
+      "definition":"Grand Officier de l’Ordre national du Québec"
+   },
+   {
+      "abbreviation":"G.S.O.",
+      "definition":"General Staff Officer"
+   },
+   {
+      "abbreviation":"Gaz.",
+      "definition":"Gazetted"
+   },
+   {
+      "abbreviation":"Geneal.",
+      "definition":"Genealogy; Genealogist; Genealogical"
+   },
+   {
+      "abbreviation":"Geol.",
+      "definition":"Geology; Geological; Geologist"
+   },
+   {
+      "abbreviation":"GM.P.I.P.S.C.",
+      "definition":"Gold Medal, Professional Institute of the Public Service of Canada"
+   },
+   {
+      "abbreviation":"H.B.A.",
+      "definition":"Honours Business Administration; Honours Bachelor of Arts"
+   },
+   {
+      "abbreviation":"HBSc",
+      "definition":"Honours Bachelor of Science"
+   },
+   {
+      "abbreviation":"h.c.",
+      "definition":"Honoris Causa"
+   },
+   {
+      "abbreviation":"H.E.",
+      "definition":"His (or Her) Excellency; His Eminence"
+   },
+   {
+      "abbreviation":"H.E.C.",
+      "definition":"École des Hautes Études Commerciales"
+   },
+   {
+      "abbreviation":"Histol.",
+      "definition":"Histology; Histological; Histologist"
+   },
+   {
+      "abbreviation":"H.M.",
+      "definition":"His (or Her) Majesty"
+   },
+   {
+      "abbreviation":"H.M.C.S.",
+      "definition":"Her Majesty’s Canadian Ship"
+   },
+   {
+      "abbreviation":"H.M.S.",
+      "definition":"Her Majesty’s Ship"
+   },
+   {
+      "abbreviation":"H.O.",
+      "definition":"Head Office"
+   },
+   {
+      "abbreviation":"H. of C.",
+      "definition":"House of Commons"
+   },
+   {
+      "abbreviation":"Homoeo.",
+      "definition":"Homoeopathy; Homoeopathic; Homoeopath"
+   },
+   {
+      "abbreviation":"Hon. ",
+      "definition":"Honourable; Honorary"
+   },
+   {
+      "abbreviation":"Hons.",
+      "definition":"Honours"
+   },
+   {
+      "abbreviation":"Hortic.",
+      "definition":"Horticulture; Horticultural; Horticulturist"
+   },
+   {
+      "abbreviation":"H.Q.",
+      "definition":"Headquarters"
+   },
+   {
+      "abbreviation":"H.R.H.",
+      "definition":"His (or Her) Royal Highness"
+   },
+   {
+      "abbreviation":"Hts.",
+      "definition":"Heights"
+   },
+   {
+      "abbreviation":"I.C.A.O.",
+      "definition":"International Civil Aviation Organization"
+   },
+   {
+      "abbreviation":"I.E.E.E.",
+      "definition":"Institute of Electrical and Electronics Engineers"
+   },
+   {
+      "abbreviation":"I.I.S.D.",
+      "definition":"International Institute for Sustainable Development"
+   },
+   {
+      "abbreviation":"I.L.O.",
+      "definition":"International Labour Office; also Organization"
+   },
+   {
+      "abbreviation":"I.O.D.E.",
+      "definition":"Imperial Order of the Daughters of the Empire"
+   },
+   {
+      "abbreviation":"I.O.F.",
+      "definition":"Independent Order of Foresters"
+   },
+   {
+      "abbreviation":"I.O.O.F.",
+      "definition":"Independent Order of Oddfellows"
+   },
+   {
+      "abbreviation":"I.P.C.",
+      "definition":"Indigenous Peoples Counsel"
+   },
+   {
+      "abbreviation":"I.S.O.",
+      "definition":"Imperial Service Order"
+   },
+   {
+      "abbreviation":"I.S.P.",
+      "definition":"Information Systems Professional"
+   },
+   {
+      "abbreviation":"i/c",
+      "definition":"In Charge"
+   },
+   {
+      "abbreviation":"ICD.D",
+      "definition":"Institute of Corporate Directors Designation"
+   },
+   {
+      "abbreviation":"Inf.",
+      "definition":"Infantry"
+   },
+   {
+      "abbreviation":"Ing.",
+      "definition":"Ingénieur"
+   },
+   {
+      "abbreviation":"ing. f.",
+      "definition":"ingénieur forestière"
+   },
+   {
+      "abbreviation":"Ins.",
+      "definition":"Insurance"
+   },
+   {
+      "abbreviation":"Inspr.",
+      "definition":"Inspector"
+   },
+   {
+      "abbreviation":"Inst.",
+      "definition":"Institute; Institution; Institut"
+   },
+   {
+      "abbreviation":"Instr.",
+      "definition":"Instructor; Instruction"
+   },
+   {
+      "abbreviation":"Int.A.I.A.",
+      "definition":"International Member of the American Institute of Architects"
+   },
+   {
+      "abbreviation":"Invest.",
+      "definition":"Investments; Investissement"
+   },
+   {
+      "abbreviation":"Investig.",
+      "definition":"Investigation"
+   },
+   {
+      "abbreviation":"J.B.",
+      "definition":"Jurum Baccalaureus"
+   },
+   {
+      "abbreviation":"J.C.B.",
+      "definition":"Juris Canoni Baccalaureus (Bachelor of Canon Law)"
+   },
+   {
+      "abbreviation":"J.C.D.",
+      "definition":"Juris Canonici Doctor; Juris Civilis Doctor (Doctor of Canon Law; also Civil Law)"
+   },
+   {
+      "abbreviation":"J.C.L.",
+      "definition":"Juris Canonici Licentiatus (Licentiate in Canon Law)"
+   },
+   {
+      "abbreviation":"J.C.Q.",
+      "definition":"Judge of the Court of Quebec"
+   },
+   {
+      "abbreviation":"J.D.",
+      "definition":"Juris Doctor (Doctor of Jurisprudence)"
+   },
+   {
+      "abbreviation":"J.D.S.",
+      "definition":"Doctor of Juridical Science"
+   },
+   {
+      "abbreviation":"J.P.",
+      "definition":"Justice of the Peace"
+   },
+   {
+      "abbreviation":"J.S.D.",
+      "definition":"Jurum Scientiae Doctor (Doctor of the Science of Laws)"
+   },
+   {
+      "abbreviation":"J.U.L.",
+      "definition":"Licentiate of Law in Utroque (both Civil and Canon Law)"
+   },
+   {
+      "abbreviation":"JChLJ",
+      "definition":"Chaplain of the Order of St. Lazarus of Jerusalem"
+   },
+   {
+      "abbreviation":"Jos.",
+      "definition":"Joseph"
+   },
+   {
+      "abbreviation":"Jt.",
+      "definition":"Joint"
+   },
+   {
+      "abbreviation":"Jur.utr.Dr.",
+      "definition":"Juris utriusque doctor (equivalent to LL.D.)"
+   },
+   {
+      "abbreviation":"K. of C.",
+      "definition":"Knights of Columbus"
+   },
+   {
+      "abbreviation":"K.B.E.",
+      "definition":"Knight Commander of the British Empire"
+   },
+   {
+      "abbreviation":"K.C.",
+      "definition":"King’s Counsel"
+   },
+   {
+      "abbreviation":"K.C.B.",
+      "definition":"Knight Commander of the Bath"
+   },
+   {
+      "abbreviation":"K.C.H.S.",
+      "definition":"Knight Commander, Equestrian Order of the Holy Sepulchre of Jerusalem "
+   },
+   {
+      "abbreviation":"K.C.L.J.",
+      "definition":"Knight Commander of the Order of St. Lazarus of Jerusalem"
+   },
+   {
+      "abbreviation":"K.C.M.G.",
+      "definition":"Knight Commander of St. Michael and St. George"
+   },
+   {
+      "abbreviation":"K.C.S.G.",
+      "definition":"Knight Commander of St. Gregory"
+   },
+   {
+      "abbreviation":"K.C.S.I.",
+      "definition":"Knight Commander of the Star of India"
+   },
+   {
+      "abbreviation":"K.C.V.O.",
+      "definition":"Knight Commander of the Royal Victorian Order"
+   },
+   {
+      "abbreviation":"K.G.",
+      "definition":"Knight Commander of the Garter"
+   },
+   {
+      "abbreviation":"K.H.S.",
+      "definition":"Knight of the Holy Sepulchre"
+   },
+   {
+      "abbreviation":"K.J.G.C.",
+      "definition":"Knight of Jerusalem Grand Cross"
+   },
+   {
+      "abbreviation":"K.L.J.",
+      "definition":"Knight of the Military and Hospitalier Order of St. Lazarus of Jerusalem"
+   },
+   {
+      "abbreviation":"K.St.J.",
+      "definition":"Knight of Grace of the Order of St. John; Knight of Justice of the Order of St. John"
+   },
+   {
+      "abbreviation":"K.T.",
+      "definition":"Knight of the Order of the Thistle; Knight Templar"
+   },
+   {
+      "abbreviation":"Kt.",
+      "definition":"Knight; Knight Bachelor"
+   },
+   {
+      "abbreviation":"L.Cdr.",
+      "definition":"Lieutenant-Commander"
+   },
+   {
+      "abbreviation":"L.Ch.",
+      "definition":"Licentiate in Surgery"
+   },
+   {
+      "abbreviation":"L.Col.",
+      "definition":"Lieutenant-Colonel"
+   },
+   {
+      "abbreviation":"L.D.C.",
+      "definition":"Licentiate Droit Canonique"
+   },
+   {
+      "abbreviation":"L.D.S.",
+      "definition":"Licentiate in Dental Surgery"
+   },
+   {
+      "abbreviation":"L.Div.",
+      "definition":"Licentiate in Divinity"
+   },
+   {
+      "abbreviation":"L.E.L.",
+      "definition":"Limited Engineering Licensee"
+   },
+   {
+      "abbreviation":"L.ès D.",
+      "definition":"Licencié ès Droit"
+   },
+   {
+      "abbreviation":"L.ès L.",
+      "definition":"Licencié ès Lettres"
+   },
+   {
+      "abbreviation":"L.ès Sc.",
+      "definition":"Licencié ès Sciences"
+   },
+   {
+      "abbreviation":"L.G.S.M.",
+      "definition":"Licentiate of the Guildhall School of Music and Drama (U.K.)"
+   },
+   {
+      "abbreviation":"L.Gen.",
+      "definition":"Lieutenant-General"
+   },
+   {
+      "abbreviation":"L.J.C.",
+      "definition":"Licentia Juris Canonici"
+   },
+   {
+      "abbreviation":"L.M.C.C.",
+      "definition":"Licentiate of Medical College of Canada"
+   },
+   {
+      "abbreviation":"L.M.C.H. (Cantab)",
+      "definition":"Life Member Clare Hall, Cambridge"
+   },
+   {
+      "abbreviation":"L.Mus.",
+      "definition":"Licence en Musique; Licentiate in Music"
+   },
+   {
+      "abbreviation":"L.O.L.",
+      "definition":"Loyal Orange Lodge"
+   },
+   {
+      "abbreviation":"l.p.",
+      "definition":"Life Partner (Spouse)"
+   },
+   {
+      "abbreviation":"L.P.N.",
+      "definition":"Licenced Practical Nurse"
+   },
+   {
+      "abbreviation":"L.Péd.",
+      "definition":"Licence en Pédagogie"
+   },
+   {
+      "abbreviation":"L.Ph.",
+      "definition":"Licence en Philosophie"
+   },
+   {
+      "abbreviation":"L.Psych.",
+      "definition":"Licencié en Psychologie"
+   },
+   {
+      "abbreviation":"L.R.A.M.",
+      "definition":"Licentiate of the Royal Academy of Music (U.K.)"
+   },
+   {
+      "abbreviation":"L.R.C.P.",
+      "definition":"Licentiate of the Royal College of Physicians"
+   },
+   {
+      "abbreviation":"L.R.C.S.",
+      "definition":"Licentiate of the Royal College of Surgeons"
+   },
+   {
+      "abbreviation":"L.R.C.T.",
+      "definition":"Licentiate of the Royal Conservatory of Toronto"
+   },
+   {
+      "abbreviation":"L.R.C.V.S.",
+      "definition":"Licentiate of the Royal College of Veterinary Surgeons"
+   },
+   {
+      "abbreviation":"L.R.H.S.C.",
+      "definition":"Licentiate, Royal Heraldry Society of Canada"
+   },
+   {
+      "abbreviation":"L.R.S.M.",
+      "definition":"Licentiate of the Royal Schools of Music (U.K.)"
+   },
+   {
+      "abbreviation":"L.S.",
+      "definition":"Land Surveyor"
+   },
+   {
+      "abbreviation":"L.S.A.",
+      "definition":"Licentiate in Agricultural Science"
+   },
+   {
+      "abbreviation":"L.S.Sc.",
+      "definition":"Licentiate in Sacred Scriptures"
+   },
+   {
+      "abbreviation":"L.Sc.Adm.",
+      "definition":"License-ès-Sciences Administration "
+   },
+   {
+      "abbreviation":"L.Sc.Comm.",
+      "definition":"Licentiate in Commercial Science"
+   },
+   {
+      "abbreviation":"L.Sc.O.",
+      "definition":"License-ès-Sciences Optométrie "
+   },
+   {
+      "abbreviation":"L.Sc.Soc.",
+      "definition":"Licence in Social Science"
+   },
+   {
+      "abbreviation":"L.T.C.L.",
+      "definition":"Licentiate of Trinity College of Music (U.K.)"
+   },
+   {
+      "abbreviation":"L.T.C.M.",
+      "definition":"Licentiate of the Toronto Conservatory of Music"
+   },
+   {
+      "abbreviation":"L.Th.",
+      "definition":"Licentiate in Theology"
+   },
+   {
+      "abbreviation":"L.V.C.M.",
+      "definition":"Licentiate of the Victoria Conservatory of Music"
+   },
+   {
+      "abbreviation":"L.V.O.",
+      "definition":"Lieutenant of the Royal Victorian Order "
+   },
+   {
+      "abbreviation":"Ldr.",
+      "definition":"Leader"
+   },
+   {
+      "abbreviation":"LEED AP",
+      "definition":"Leadership in Energy & Environmental Design - Accredited Professional"
+   },
+   {
+      "abbreviation":"LF.I.E.E.E.",
+      "definition":"Life Fellow, Institution of Electrical and Electronics Engineers"
+   },
+   {
+      "abbreviation":"Lib.",
+      "definition":"Liberal; Liberal Party; Library; Librarian"
+   },
+   {
+      "abbreviation":"Lic.",
+      "definition":"Licentiate; Licencié"
+   },
+   {
+      "abbreviation":"Lic. Med.",
+      "definition":"Licentiate in Medicine"
+   },
+   {
+      "abbreviation":"Lit.hum.",
+      "definition":"Litterae humaniores (classics)"
+   },
+   {
+      "abbreviation":"Litt.",
+      "definition":"Littérateur; Littéraire"
+   },
+   {
+      "abbreviation":"Litt.B.",
+      "definition":"Bachelor of Letters"
+   },
+   {
+      "abbreviation":"Litt.D.",
+      "definition":"Doctor of Letters; Doctor of Literature"
+   },
+   {
+      "abbreviation":"LL.B.",
+      "definition":"Bachelor of Laws"
+   },
+   {
+      "abbreviation":"LL.D.",
+      "definition":"Doctor of Laws (usually honorary)"
+   },
+   {
+      "abbreviation":"LL.L.",
+      "definition":"Licentiate of Laws"
+   },
+   {
+      "abbreviation":"LL.M.",
+      "definition":"Master of Laws"
+   },
+   {
+      "abbreviation":"LSLS Cert. AVT",
+      "definition":"Listening and Spoken Language Specialist - Auditory-Verbal Therapist"
+   },
+   {
+      "abbreviation":"LSM",
+      "definition":"Law Society Medal"
+   },
+   {
+      "abbreviation":"Lt.",
+      "definition":"Lieutenant"
+   },
+   {
+      "abbreviation":"m.",
+      "definition":"Married; Marié(e)"
+   },
+   {
+      "abbreviation":"M.A.",
+      "definition":"Master of Arts"
+   },
+   {
+      "abbreviation":"M.A.A.A.",
+      "definition":"Montreal Amateur Athletic Association"
+   },
+   {
+      "abbreviation":"M.A.C.P.",
+      "definition":"Master of the American College of Physicians"
+   },
+   {
+      "abbreviation":"M.A.C.S.S.    ",
+      "definition":"Membre de l’académie canadienne des sciences de la santé"
+   },
+   {
+      "abbreviation":"M.A.I.",
+      "definition":"Master of Engineering"
+   },
+   {
+      "abbreviation":"M.A.I.B.C.",
+      "definition":"Member, Architectural Institute of British Columbia"
+   },
+   {
+      "abbreviation":"M.A.L.D.",
+      "definition":"Master of Arts in Law & Diplomacy"
+   },
+   {
+      "abbreviation":"M.A.L.S.",
+      "definition":"Master of Arts in Library Science"
+   },
+   {
+      "abbreviation":"M.A.O.",
+      "definition":"Master of Obstetric Art"
+   },
+   {
+      "abbreviation":"M.A.Sc.",
+      "definition":"Master of Applied Science"
+   },
+   {
+      "abbreviation":"M.A.T.",
+      "definition":"Master of Arts in Teaching"
+   },
+   {
+      "abbreviation":"M.Acc.",
+      "definition":"Master of Accounting"
+   },
+   {
+      "abbreviation":"M.Arch.",
+      "definition":"Master of Architecture"
+   },
+   {
+      "abbreviation":"M.B.",
+      "definition":"Bachelor of Medicine (U.K.); Medal of Bravery"
+   },
+   {
+      "abbreviation":"M.B.A.",
+      "definition":"Master in Business Administration"
+   },
+   {
+      "abbreviation":"M.B.B.S.",
+      "definition":"Bachelor of Medicine; Bachelor of Surgery "
+   },
+   {
+      "abbreviation":"M.B.E.",
+      "definition":"Member of the Order of the British Empire"
+   },
+   {
+      "abbreviation":"M.C.",
+      "definition":"Military Cross"
+   },
+   {
+      "abbreviation":"M.C.E.",
+      "definition":"Master of Civil Engineering"
+   },
+   {
+      "abbreviation":"M.C.G.I.",
+      "definition":"Member of the City and Guilds Institute of London (England)"
+   },
+   {
+      "abbreviation":"M.C.I.",
+      "definition":"Member of the Credit Institute"
+   },
+   {
+      "abbreviation":"M.C.I.Arb.",
+      "definition":"Member of the Chartered Institute of Arbitrators (U.K.)"
+   },
+   {
+      "abbreviation":"M.C.I.C.",
+      "definition":"Member of the Chemical Institute of Canada"
+   },
+   {
+      "abbreviation":"M.C.I.P or MCIP",
+      "definition":"Full Member Canadian Institute of Planners"
+   },
+   {
+      "abbreviation":"M.C.L.",
+      "definition":"Master of Civil Law"
+   },
+   {
+      "abbreviation":"M.C.P.",
+      "definition":"Master of City Planning"
+   },
+   {
+      "abbreviation":"M.C.Psyc",
+      "definition":"Master of Counselling Psychology"
+   },
+   {
+      "abbreviation":"M.C.S.",
+      "definition":"Master of Commercial Science; Master of Communication Studies"
+   },
+   {
+      "abbreviation":"M.Ch., M.Chir.",
+      "definition":"Master in Surgery"
+   },
+   {
+      "abbreviation":"M.Cl.Sc.",
+      "definition":"Master of Clinical Science"
+   },
+   {
+      "abbreviation":"M.Com., M.Comm.",
+      "definition":"Master of Commerce"
+   },
+   {
+      "abbreviation":"M.D.",
+      "definition":"Doctor of Medicine; Military District"
+   },
+   {
+      "abbreviation":"M.D.C.",
+      "definition":"Master of Canon Law"
+   },
+   {
+      "abbreviation":"M.D.S.",
+      "definition":"Master of Defence Studies; Master of Dental Surgery (U.K.)"
+   },
+   {
+      "abbreviation":"M.D.Y.",
+      "definition":"Master of Arts in Diplomacy"
+   },
+   {
+      "abbreviation":"M.Div.",
+      "definition":"Master of Divinity"
+   },
+   {
+      "abbreviation":"M.E.",
+      "definition":"Mining Engineer; Mechanical Engineer"
+   },
+   {
+      "abbreviation":"M.E.A.",
+      "definition":"Microprogramme en éthique appliquée"
+   },
+   {
+      "abbreviation":"M.E.E.",
+      "definition":"Master of Electrical Engineering (U.S.)"
+   },
+   {
+      "abbreviation":"M.E.S.",
+      "definition":"Master in Environmental Studies"
+   },
+   {
+      "abbreviation":"M.Ec.",
+      "definition":"Master of Economics"
+   },
+   {
+      "abbreviation":"M.Ed.",
+      "definition":"Master of Education"
+   },
+   {
+      "abbreviation":"M.Eng.",
+      "definition":"Master of Engineering"
+   },
+   {
+      "abbreviation":"M.ès A. ",
+      "definition":"Maîtrise ès Arts"
+   },
+   {
+      "abbreviation":"M.ès L.",
+      "definition":"Maîtrise ès Lettres"
+   },
+   {
+      "abbreviation":"M.F.",
+      "definition":"Master of Forestry"
+   },
+   {
+      "abbreviation":"M.F.A.",
+      "definition":"Master of Fine Arts"
+   },
+   {
+      "abbreviation":"M.Fisc.",
+      "definition":"Masters in Taxation"
+   },
+   {
+      "abbreviation":"M.H.A.",
+      "definition":"Member of the House of Assembly; Masters in Health Administration"
+   },
+   {
+      "abbreviation":"M.H.C.M.",
+      "definition":"Masters in Health Care Management"
+   },
+   {
+      "abbreviation":"M.H.K.",
+      "definition":"Master of Human Kinetics"
+   },
+   {
+      "abbreviation":"M.H.L.",
+      "definition":"Master of Hebrew Letters"
+   },
+   {
+      "abbreviation":"M.H.Sc.",
+      "definition":"Master of Health Science"
+   },
+   {
+      "abbreviation":"M.I.Biol.",
+      "definition":"Member of the Institute of Biology"
+   },
+   {
+      "abbreviation":"M.I.P.P.",
+      "definition":"Master of International Public Policy"
+   },
+   {
+      "abbreviation":"M.I.S.",
+      "definition":"Management Information Systems"
+   },
+   {
+      "abbreviation":"M.I.St.",
+      "definition":"Master of Information Studies"
+   },
+   {
+      "abbreviation":"M.I.T.",
+      "definition":"Massachusetts Institute of Technology"
+   },
+   {
+      "abbreviation":"M.Ind.R., M.I.R.",
+      "definition":"Master of Industrial Relations"
+   },
+   {
+      "abbreviation":"M.Inst.R.",
+      "definition":"Member of the Institute of Refrigeration"
+   },
+   {
+      "abbreviation":"M.J.",
+      "definition":"Master of Journalism"
+   },
+   {
+      "abbreviation":"M.Kin.",
+      "definition":"Masters in Kinesiology"
+   },
+   {
+      "abbreviation":"M.L.",
+      "definition":"Master of Laws"
+   },
+   {
+      "abbreviation":"M.L.A.",
+      "definition":"Member of the Legislative Assembly; Master of Landscape Architecture"
+   },
+   {
+      "abbreviation":"M.L.I.S.",
+      "definition":"Master of Library and Information Science"
+   },
+   {
+      "abbreviation":"M.L.S.",
+      "definition":"Master of Library Science; Licentiate in Medieval Studies"
+   },
+   {
+      "abbreviation":"M.Leg.St.",
+      "definition":"Master of Legal Studies (U.S.)"
+   },
+   {
+      "abbreviation":"M.Litt.",
+      "definition":"Master of Letters; Master of Literature"
+   },
+   {
+      "abbreviation":"M.M.",
+      "definition":"Military Medal; Master of Music"
+   },
+   {
+      "abbreviation":"M.M.M.",
+      "definition":"Member of the Order of Military Merit"
+   },
+   {
+      "abbreviation":"M.M.St.",
+      "definition":"Master of Museum Studies"
+   },
+   {
+      "abbreviation":"M.Mus.",
+      "definition":"Master of Music"
+   },
+   {
+      "abbreviation":"M.N.",
+      "definition":"Master of Nursing"
+   },
+   {
+      "abbreviation":"M.N.A.",
+      "definition":"Member of the National Assembly"
+   },
+   {
+      "abbreviation":"M.O.",
+      "definition":"Missionary Oblate"
+   },
+   {
+      "abbreviation":"M.O.M.",
+      "definition":"Member of the Order of Merit of the Police Forces"
+   },
+   {
+      "abbreviation":"M.P.",
+      "definition":"Member of Parliament; Master of Planning"
+   },
+   {
+      "abbreviation":"M.P.A.",
+      "definition":"Master of Public Administration; Master of Public Affairs"
+   },
+   {
+      "abbreviation":"M.P.E.",
+      "definition":"Master of Physical Education"
+   },
+   {
+      "abbreviation":"M.P.E.P.",
+      "definition":"Maître Professionelle Études Pastorales"
+   },
+   {
+      "abbreviation":"M.P.H.",
+      "definition":"Master of Public Health"
+   },
+   {
+      "abbreviation":"M.P.M.",
+      "definition":"Master of Pest Management"
+   },
+   {
+      "abbreviation":"M.P.P.",
+      "definition":"Member of Provincial Parliament"
+   },
+   {
+      "abbreviation":"M.Ph., M.Phil.",
+      "definition":"Master of Philosophy"
+   },
+   {
+      "abbreviation":"M.PL.",
+      "definition":"Master of Urban and Regional Planning"
+   },
+   {
+      "abbreviation":"M.Ps.",
+      "definition":"Master of Psychology"
+   },
+   {
+      "abbreviation":"M.R.C.",
+      "definition":"Medical Research Council of Canada"
+   },
+   {
+      "abbreviation":"M.R.C.O.G.",
+      "definition":"Member of the Royal College of Obstetricians & Gynaecologists"
+   },
+   {
+      "abbreviation":"M.R.C.P.",
+      "definition":"Member of the Royal College of Physicians"
+   },
+   {
+      "abbreviation":"M.R.C.S.",
+      "definition":"Member of the Royal College of Surgeons"
+   },
+   {
+      "abbreviation":"M.R.C.V.S.",
+      "definition":"Member of the Royal College of Veterinary Studies"
+   },
+   {
+      "abbreviation":"M.R.E.",
+      "definition":"Master of Religious Education"
+   },
+   {
+      "abbreviation":"M.R.I.A.",
+      "definition":"Member of the Royal Irish Academy"
+   },
+   {
+      "abbreviation":"M.R.M.",
+      "definition":"Master of Resource Management"
+   },
+   {
+      "abbreviation":"M.R.S.H.",
+      "definition":"Member, Royal Society of Health (U.K.)"
+   },
+   {
+      "abbreviation":"M.S.",
+      "definition":"Master of Surgery; Master of Science (U.S.)"
+   },
+   {
+      "abbreviation":"M.S.A.",
+      "definition":"Master of Science in Agriculture"
+   },
+   {
+      "abbreviation":"M.S.C.",
+      "definition":"Meritorious Service Cross "
+   },
+   {
+      "abbreviation":"M.S.D.",
+      "definition":"Master of Science in Dentistry; Mediaeval Studies Doctorate"
+   },
+   {
+      "abbreviation":"M.S.D.T.",
+      "definition":"Master Scuba Diver Trainer (PADI)"
+   },
+   {
+      "abbreviation":"M.S.E.E.",
+      "definition":"Master of Science in Electrical Engineering"
+   },
+   {
+      "abbreviation":"M.S.Ed.",
+      "definition":"Master of Science in Education (U.S.)"
+   },
+   {
+      "abbreviation":"M.S.F.",
+      "definition":"Master of Science in Forestry"
+   },
+   {
+      "abbreviation":"M.S.J.",
+      "definition":"Master of Science in Journalism"
+   },
+   {
+      "abbreviation":"M.S.L.",
+      "definition":"Master of Studies in Law; Mediaeval Studies Licentiate"
+   },
+   {
+      "abbreviation":"M.S.M.",
+      "definition":"Meritorious Service Medal"
+   },
+   {
+      "abbreviation":"M.S.O.D.",
+      "definition":"Master of Science in Organizational Development"
+   },
+   {
+      "abbreviation":"M.S.R.C.",
+      "definition":"Membre de la Société royale du Canada"
+   },
+   {
+      "abbreviation":"M.S.S.",
+      "definition":"Master of Social Science"
+   },
+   {
+      "abbreviation":"M.S.W.",
+      "definition":"Master of Social Work"
+   },
+   {
+      "abbreviation":"M.Sc.",
+      "definition":"Master of Science; Missionary Science"
+   },
+   {
+      "abbreviation":"M.Sc.A.",
+      "definition":"Master of Applied Science"
+   },
+   {
+      "abbreviation":"M.Sc.Ag.",
+      "definition":"Master of Agricultural Sciences"
+   },
+   {
+      "abbreviation":"M.Sc.Com.",
+      "definition":"Master of Commercial Sciences"
+   },
+   {
+      "abbreviation":"M.Sc.F., M.sc.for.",
+      "definition":"Master of Science in Forestry"
+   },
+   {
+      "abbreviation":"M.Sc.N., M.S.N.",
+      "definition":"Master of Science in Nursing"
+   },
+   {
+      "abbreviation":"M.Sc.Phm.",
+      "definition":"Master of Science in Pharmacy"
+   },
+   {
+      "abbreviation":"M.Sc.Pl.",
+      "definition":"Master of Science in Planning"
+   },
+   {
+      "abbreviation":"M.Sc.Soc.",
+      "definition":"Master in Social Sciences"
+   },
+   {
+      "abbreviation":"M.Soc.",
+      "definition":"Master in Sociology"
+   },
+   {
+      "abbreviation":"M.Tax.",
+      "definition":"Master of Taxation"
+   },
+   {
+      "abbreviation":"M.Trad.",
+      "definition":"Maîtrise en traduction"
+   },
+   {
+      "abbreviation":"M.U.Dr.",
+      "definition":"Medecinae Universae Doctor (Dentistry and Medicine, Czech)"
+   },
+   {
+      "abbreviation":"M.U.P., M.Urb.",
+      "definition":"Master of Urban Planning"
+   },
+   {
+      "abbreviation":"M.V.A.",
+      "definition":"Master of Visual Arts"
+   },
+   {
+      "abbreviation":"M.V.O.",
+      "definition":"Member of the Royal Victorian Order"
+   },
+   {
+      "abbreviation":"MAA",
+      "definition":"Manitoba Association of Architects"
+   },
+   {
+      "abbreviation":"MAIB",
+      "definition":"Member, Australian Institute of Biology Incorporated "
+   },
+   {
+      "abbreviation":"Man.",
+      "definition":"Manitoba"
+   },
+   {
+      "abbreviation":"Meth.",
+      "definition":"Methodist"
+   },
+   {
+      "abbreviation":"Metrop.",
+      "definition":"Metropolitan"
+   },
+   {
+      "abbreviation":"MIET",
+      "definition":"Member of the Institute of Engineering and Technology"
+   },
+   {
+      "abbreviation":"Mil.",
+      "definition":"Military; Militia"
+   },
+   {
+      "abbreviation":"MIMech.E.",
+      "definition":"Member, Institution of Mechanical Engineers"
+   },
+   {
+      "abbreviation":"Min.",
+      "definition":"Minister"
+   },
+   {
+      "abbreviation":"Msgr.",
+      "definition":"Monseigneur"
+   },
+   {
+      "abbreviation":"Mun.",
+      "definition":"Municipality; Municipal"
+   },
+   {
+      "abbreviation":"Mus.B(ac).",
+      "definition":"Bachelor of Music"
+   },
+   {
+      "abbreviation":"Mus.B(ac).Perf.",
+      "definition":"Bachelor of Music in Performance"
+   },
+   {
+      "abbreviation":"Mus.D(oc).",
+      "definition":"Doctor of Music"
+   },
+   {
+      "abbreviation":"Mus.M.",
+      "definition":"Master of Music"
+   },
+   {
+      "abbreviation":"Mycol.",
+      "definition":"Mycology; Mycological; Mycologist"
+   },
+   {
+      "abbreviation":"N.",
+      "definition":"North; Northern"
+   },
+   {
+      "abbreviation":"N.A.T.O.",
+      "definition":"North Atlantic Treaty Organization"
+   },
+   {
+      "abbreviation":"N.B.",
+      "definition":"New Brunswick"
+   },
+   {
+      "abbreviation":"N.D.",
+      "definition":"Doctor of Naturopathic Medicine"
+   },
+   {
+      "abbreviation":"N.D.D.",
+      "definition":"National Diploma in Dairying (U.K.); National Diploma of Design (U.K.)"
+   },
+   {
+      "abbreviation":"N.D.E.E.",
+      "definition":"National Diploma in Electrical Engineering"
+   },
+   {
+      "abbreviation":"N.D.G.",
+      "definition":"Notre Dame de Grace"
+   },
+   {
+      "abbreviation":"N.D.P.",
+      "definition":"New Democratic Party"
+   },
+   {
+      "abbreviation":"N.E.B.",
+      "definition":"National Energy Board"
+   },
+   {
+      "abbreviation":"N.F.B.",
+      "definition":"National Film Board"
+   },
+   {
+      "abbreviation":"N.F.U.",
+      "definition":"National Farmers Union"
+   },
+   {
+      "abbreviation":"N.G.O.",
+      "definition":"Non-Governmental Organization"
+   },
+   {
+      "abbreviation":"N.H.L.",
+      "definition":"National Hockey League"
+   },
+   {
+      "abbreviation":"N.I.M.H.",
+      "definition":"National Institute of Mental Health (U.S.)"
+   },
+   {
+      "abbreviation":"N.L.S.",
+      "definition":"Newfoundland Land Surveyors"
+   },
+   {
+      "abbreviation":"N.O.A.A.",
+      "definition":"National Oceanographic and Atmospheric Administration (U.S.)"
+   },
+   {
+      "abbreviation":"N.P.",
+      "definition":"Notaire Publique"
+   },
+   {
+      "abbreviation":"N.P.A.M.",
+      "definition":"Non-Permanent Active Militia"
+   },
+   {
+      "abbreviation":"N.R.C.",
+      "definition":"National Research Council"
+   },
+   {
+      "abbreviation":"N.S.",
+      "definition":"Nova Scotia"
+   },
+   {
+      "abbreviation":"N.S.C.A.D.",
+      "definition":"Nova Scotia College of Art and Design"
+   },
+   {
+      "abbreviation":"N.S.E.R.C.",
+      "definition":"Natural Sciences and Engineering Research Council of Canada"
+   },
+   {
+      "abbreviation":"n.s.s.",
+      "definition":"National Search and Rescue Secretariat"
+   },
+   {
+      "abbreviation":"N.S.W.",
+      "definition":"New South Wales"
+   },
+   {
+      "abbreviation":"N.W.T.",
+      "definition":"Northwest Territories"
+   },
+   {
+      "abbreviation":"N.Z.",
+      "definition":"New Zealand"
+   },
+   {
+      "abbreviation":"ndc",
+      "definition":"National Defence College (military qualification)"
+   },
+   {
+      "abbreviation":"Neurol.",
+      "definition":"Neurology; Neurological; Neurologist"
+   },
+   {
+      "abbreviation":"Nfld. & Lab.",
+      "definition":"Newfoundland & Labrador"
+   },
+   {
+      "abbreviation":"No.",
+      "definition":"Number; Nombre"
+   },
+   {
+      "abbreviation":"Numis.",
+      "definition":"Numismatic"
+   },
+   {
+      "abbreviation":"o.",
+      "definition":"Ordained; Ordiné(e)"
+   },
+   {
+      "abbreviation":"O.A.A.",
+      "definition":"Ontario Association of Architects"
+   },
+   {
+      "abbreviation":"O.A.Q.",
+      "definition":"L'Ordre des architectes du Québec"
+   },
+   {
+      "abbreviation":"O.A.S.",
+      "definition":"Organization of American States"
+   },
+   {
+      "abbreviation":"O.B.C.",
+      "definition":"Order of British Columbia"
+   },
+   {
+      "abbreviation":"O.B.E.",
+      "definition":"Officer of the Order of the British Empire"
+   },
+   {
+      "abbreviation":"O.C.",
+      "definition":"Officer of the Order of Canada; Officier de l’Ordre du Canada; Officer Commanding"
+   },
+   {
+      "abbreviation":"O.D.",
+      "definition":"Doctor of Optometry"
+   },
+   {
+      "abbreviation":"O.E.C.D.",
+      "definition":"Organization for Economic Cooperation and Development"
+   },
+   {
+      "abbreviation":"O.M.",
+      "definition":"Order of Manitoba"
+   },
+   {
+      "abbreviation":"O.M.C.",
+      "definition":"Ontario Medal for Good Citizenship"
+   },
+   {
+      "abbreviation":"O.M.I.",
+      "definition":"Oblate of Mary Immaculate"
+   },
+   {
+      "abbreviation":"O.M.L.J.",
+      "definition":"Officer of the Military and Hospitalier Order of Saint Lazarus of Jerusalem"
+   },
+   {
+      "abbreviation":"O.M.M.",
+      "definition":"Officer of the Order of Military Merit"
+   },
+   {
+      "abbreviation":"O.M.R.I.",
+      "definition":"Order of Merit of the Italian Republic"
+   },
+   {
+      "abbreviation":"O.N.B.",
+      "definition":"Order of New Brunswick"
+   },
+   {
+      "abbreviation":"O.N.G.",
+      "definition":"Organisation Non Gouvernemental"
+   },
+   {
+      "abbreviation":"O.N.L.",
+      "definition":"Order of Newfoundland & Labrador"
+   },
+   {
+      "abbreviation":"O.N.Q.",
+      "definition":"Order of Nurses of Quebec"
+   },
+   {
+      "abbreviation":"O.N.S.",
+      "definition":"Order of Nova Scotia"
+   },
+   {
+      "abbreviation":"O.O.M.",
+      "definition":"Officer of the Order of Merit of the Police Forces"
+   },
+   {
+      "abbreviation":"O.Ont.",
+      "definition":"Order of Ontario"
+   },
+   {
+      "abbreviation":"O.P.E.I.",
+      "definition":"Order of Prince Edward Island"
+   },
+   {
+      "abbreviation":"O.Q.",
+      "definition":"Officier de l’Ordre national du Québec"
+   },
+   {
+      "abbreviation":"O.S.A.",
+      "definition":"Ontario Society of Artists"
+   },
+   {
+      "abbreviation":"O.St.J.",
+      "definition":"Officer of the Order of St. John"
+   },
+   {
+      "abbreviation":"O.U.Q.",
+      "definition":"L'Ordre des urbanistes du Québec"
+   },
+   {
+      "abbreviation":"Offr.",
+      "definition":"Officer"
+   },
+   {
+      "abbreviation":"Ont.",
+      "definition":"Ontario"
+   },
+   {
+      "abbreviation":"Op.Dip.Perf.",
+      "definition":"Diploma in Operatic Performance"
+   },
+   {
+      "abbreviation":"Ophthal(mol).",
+      "definition":"Ophthalmology; Ophthalmic; Ophthalmologist"
+   },
+   {
+      "abbreviation":"OPM",
+      "definition":"Owner/President Management Program - Harvard Business Sch."
+   },
+   {
+      "abbreviation":"Orgn.",
+      "definition":"Organization; Organized"
+   },
+   {
+      "abbreviation":"Ornithol.",
+      "definition":"Ornithology; Ornithological; Ornithologist"
+   },
+   {
+      "abbreviation":"OSPE",
+      "definition":"Ontario Society of Professional Engineers"
+   },
+   {
+      "abbreviation":"OT Reg.PE,",
+      "definition":"Registered Occupational Therapist, Prince Edward Island"
+   },
+   {
+      "abbreviation":"Otol.",
+      "definition":"Otology; Otological; Otologist"
+   },
+   {
+      "abbreviation":"P.Adm.",
+      "definition":"Professional Administrator"
+   },
+   {
+      "abbreviation":"P.Ag.",
+      "definition":"Professional Agrologist"
+   },
+   {
+      "abbreviation":"P.C.",
+      "definition":"Privy Council; Privy Councillor; Progressive Conservative"
+   },
+   {
+      "abbreviation":"P.C.J.",
+      "definition":"Provincial Court Judge"
+   },
+   {
+      "abbreviation":"p.c.s.c.",
+      "definition":"Canadian Forces College Command and Staff Course"
+   },
+   {
+      "abbreviation":"P.Dt.",
+      "definition":"Professional Dietician"
+   },
+   {
+      "abbreviation":"P.E.I.",
+      "definition":"Prince Edward Island"
+   },
+   {
+      "abbreviation":"P.E.N.",
+      "definition":"Poets, Playwrights, Editors, Essayists and Novelists "
+   },
+   {
+      "abbreviation":"P.E.O.",
+      "definition":"Professional Engineers of Ontario"
+   },
+   {
+      "abbreviation":"P.Eng.",
+      "definition":"Professional Engineer"
+   },
+   {
+      "abbreviation":"P.G.C.E.",
+      "definition":"Post-Graduate Certificate in Education (U.K.)"
+   },
+   {
+      "abbreviation":"P.Geo.",
+      "definition":"Professional Geologist"
+   },
+   {
+      "abbreviation":"P.M.",
+      "definition":"Prime Minister"
+   },
+   {
+      "abbreviation":"P.M.P.",
+      "definition":"Project Management Professional"
+   },
+   {
+      "abbreviation":"P.O.W.",
+      "definition":"Prisoner of War"
+   },
+   {
+      "abbreviation":"P.P.C.L.I.",
+      "definition":"Princess Patricia’s Canadian Light Infantry"
+   },
+   {
+      "abbreviation":"p.s.",
+      "definition":"Passed School of Instruction (Officers)"
+   },
+   {
+      "abbreviation":"p.s.a.",
+      "definition":"Graduate of R.A.F. Staff College"
+   },
+   {
+      "abbreviation":"p.s.c.",
+      "definition":"Passed Staff College"
+   },
+   {
+      "abbreviation":"Pac.",
+      "definition":"Pacific"
+   },
+   {
+      "abbreviation":"Parliam.",
+      "definition":"Parliament"
+   },
+   {
+      "abbreviation":"Parlty.",
+      "definition":"Parliamentary"
+   },
+   {
+      "abbreviation":"Path(ol).",
+      "definition":"Pathology; Pathological; Pathologist"
+   },
+   {
+      "abbreviation":"PEBC",
+      "definition":"Pharmacy Examining Board of Canada"
+   },
+   {
+      "abbreviation":"Perm.",
+      "definition":"Permanent"
+   },
+   {
+      "abbreviation":"PG.Dip",
+      "definition":"Post Graduate Diploma"
+   },
+   {
+      "abbreviation":"Ph.B.",
+      "definition":"Bachelor of Philosophy"
+   },
+   {
+      "abbreviation":"Ph.C.",
+      "definition":"Philosopher of Chiropractic"
+   },
+   {
+      "abbreviation":"Ph.D.",
+      "definition":"Doctor of Philosophy"
+   },
+   {
+      "abbreviation":"Ph.L.",
+      "definition":"Licentiate in Philosophy"
+   },
+   {
+      "abbreviation":"Pharm.D.",
+      "definition":"Doctor of Pharmacy"
+   },
+   {
+      "abbreviation":"Phil.M.",
+      "definition":"Master of Philosophy"
+   },
+   {
+      "abbreviation":"Philol.",
+      "definition":"Philology; Philological; Philologist"
+   },
+   {
+      "abbreviation":"Philos.",
+      "definition":"Philosophy; Philosophical"
+   },
+   {
+      "abbreviation":"Phm.B.",
+      "definition":"Bachelor of Pharmacy"
+   },
+   {
+      "abbreviation":"Phys.",
+      "definition":"Physical; Physician"
+   },
+   {
+      "abbreviation":"Physiol.",
+      "definition":"Physiology; Physiological; Physiologist"
+   },
+   {
+      "abbreviation":"Phytopath(ol).",
+      "definition":"Phytopathology; Phytopathological; Phytopathologist"
+   },
+   {
+      "abbreviation":"PLC, plc",
+      "definition":"Public limited company (U.K.)"
+   },
+   {
+      "abbreviation":"Pol.",
+      "definition":"Political"
+   },
+   {
+      "abbreviation":"Polytech.",
+      "definition":"Polytechnic; Polytechnique"
+   },
+   {
+      "abbreviation":"Pomol.",
+      "definition":"Pomology; Pomological; Pomologist"
+   },
+   {
+      "abbreviation":"Prep.",
+      "definition":"Preparatory"
+   },
+   {
+      "abbreviation":"Pres.",
+      "definition":"President"
+   },
+   {
+      "abbreviation":"Presb.",
+      "definition":"Presbyterian"
+   },
+   {
+      "abbreviation":"Presby.",
+      "definition":"Presbytery"
+   },
+   {
+      "abbreviation":"Prop.",
+      "definition":"Proprietor; Propriétaire"
+   },
+   {
+      "abbreviation":"Prot.",
+      "definition":"Protestant"
+   },
+   {
+      "abbreviation":"Psychol.",
+      "definition":"Psychology; Psychological; Psychologist"
+   },
+   {
+      "abbreviation":"Pte.",
+      "definition":"Private (Soldier)"
+   },
+   {
+      "abbreviation":"PTY, pty",
+      "definition":"Proprietary"
+   },
+   {
+      "abbreviation":"Q.C.",
+      "definition":"Queen’s Counsel"
+   },
+   {
+      "abbreviation":"Q.H.S.",
+      "definition":"Queen’s Honorary Surgeon"
+   },
+   {
+      "abbreviation":"Q.L.S.",
+      "definition":"Quebec Land Surveyor"
+   },
+   {
+      "abbreviation":"Q.M.",
+      "definition":"Quartermaster"
+   },
+   {
+      "abbreviation":"Q.M.G.",
+      "definition":"Quartermaster-General"
+   },
+   {
+      "abbreviation":"Q.O.R.",
+      "definition":"Queen’s Own Rifles"
+   },
+   {
+      "abbreviation":"Que.",
+      "definition":"Quebec"
+   },
+   {
+      "abbreviation":"R.A.",
+      "definition":"Royal Artillery; Royal Academician"
+   },
+   {
+      "abbreviation":"R.A.F.",
+      "definition":"Royal Air Force"
+   },
+   {
+      "abbreviation":"R.A.I.C.",
+      "definition":"Royal Architecture Institute of Canada"
+   },
+   {
+      "abbreviation":"R.A.M.",
+      "definition":"Royal Academy of Music; Royal Arch Mason"
+   },
+   {
+      "abbreviation":"R.A.M.C.",
+      "definition":"Royal Army Medical Corps"
+   },
+   {
+      "abbreviation":"R.A.S.C.",
+      "definition":"Royal Astronomical Society of Canada"
+   },
+   {
+      "abbreviation":"R.B.A.",
+      "definition":"Royal Society of British Architects"
+   },
+   {
+      "abbreviation":"R.C.A.",
+      "definition":"Royal Canadian Artillery; Royal Canadian Academy of Arts; Royal College of Art (U.K.)"
+   },
+   {
+      "abbreviation":"R.C.A.C.",
+      "definition":"Royal Canadian Armoured Corps"
+   },
+   {
+      "abbreviation":"R.C.A.F.",
+      "definition":"Royal Canadian Air Force"
+   },
+   {
+      "abbreviation":"R.C.A.M.C.",
+      "definition":"Royal Canadian Army Medical Corps"
+   },
+   {
+      "abbreviation":"R.C.D.",
+      "definition":"Royal Canadian Dragoons"
+   },
+   {
+      "abbreviation":"R.C.E.",
+      "definition":"Royal Canadian Engineers"
+   },
+   {
+      "abbreviation":"R.C.E.M.E.",
+      "definition":"Royal Canadian Electrical and Mechanical Engineers"
+   },
+   {
+      "abbreviation":"R.C.F.A.",
+      "definition":"Royal Canadian Field Artillery"
+   },
+   {
+      "abbreviation":"R.C.G.A.",
+      "definition":"Royal Canadian Garrison Artillery"
+   },
+   {
+      "abbreviation":"R.C.M.",
+      "definition":"Royal Conservatory of Music"
+   },
+   {
+      "abbreviation":"R.C.M.P.",
+      "definition":"Royal Canadian Mounted Police"
+   },
+   {
+      "abbreviation":"R.C.N.",
+      "definition":"Royal Canadian Navy"
+   },
+   {
+      "abbreviation":"R.C.N.V.R.",
+      "definition":"Royal Canadian Naval Volunteer Reserve"
+   },
+   {
+      "abbreviation":"R.C.O.C.",
+      "definition":"Royal Canadian Ordnance Corps"
+   },
+   {
+      "abbreviation":"R.C.R.",
+      "definition":"Royal Canadian Regiment"
+   },
+   {
+      "abbreviation":"R.C.Y.C.",
+      "definition":"Royal Canadian Yacht Club"
+   },
+   {
+      "abbreviation":"R.E.",
+      "definition":"Royal Engineers"
+   },
+   {
+      "abbreviation":"R.F.A.",
+      "definition":"Royal Field Artillery"
+   },
+   {
+      "abbreviation":"R.F.C.",
+      "definition":"Royal Flying Corps"
+   },
+   {
+      "abbreviation":"R.F.P.",
+      "definition":"Registered Financial Planner"
+   },
+   {
+      "abbreviation":"R.I.A.",
+      "definition":"Registered Industrial and Cost Accountant"
+   },
+   {
+      "abbreviation":"R.I.B.",
+      "definition":"Registered Insurance Broker"
+   },
+   {
+      "abbreviation":"R.M.C.",
+      "definition":"Royal Military College (Canada)"
+   },
+   {
+      "abbreviation":"R.N.",
+      "definition":"Royal Navy; Registered Nurse"
+   },
+   {
+      "abbreviation":"R.N.S.Y.S.",
+      "definition":"Royal Nova Scotia Yacht Squadron"
+   },
+   {
+      "abbreviation":"R.O.",
+      "definition":"Reserve of Officers"
+   },
+   {
+      "abbreviation":"R.P.",
+      "definition":"Member of the Royal Society of Portrait Painters"
+   },
+   {
+      "abbreviation":"R.P.A.",
+      "definition":"Registered Professional Archaeologist"
+   },
+   {
+      "abbreviation":"R.P.Bio.",
+      "definition":"Registered Professional Biologist"
+   },
+   {
+      "abbreviation":"R.P.F.",
+      "definition":"Registered Professional Forester"
+   },
+   {
+      "abbreviation":"R.Ph.",
+      "definition":"Registered Pharmacist"
+   },
+   {
+      "abbreviation":"R.R.",
+      "definition":"Rural Route"
+   },
+   {
+      "abbreviation":"R.S.W.",
+      "definition":"Registered Specification Writer"
+   },
+   {
+      "abbreviation":"R22eR",
+      "definition":"Royal 22e Régiment"
+   },
+   {
+      "abbreviation":"Regt.",
+      "definition":"Regiment"
+   },
+   {
+      "abbreviation":"Res.",
+      "definition":"Resident"
+   },
+   {
+      "abbreviation":"Res.Dip.S.W.",
+      "definition":"Diploma in Social Work Research"
+   },
+   {
+      "abbreviation":"Rev.",
+      "definition":"Reverend; Review; Revised"
+   },
+   {
+      "abbreviation":"Rhinol.",
+      "definition":"Rhinology; Rhinological; Rhinologist"
+   },
+   {
+      "abbreviation":"RI",
+      "definition":"Real Estate Institute of British Columbia"
+   },
+   {
+      "abbreviation":"Röntgenol.",
+      "definition":"Röntgenology; Röntgenological; Röntgenologist"
+   },
+   {
+      "abbreviation":"Rt. ",
+      "definition":"Right"
+   },
+   {
+      "abbreviation":"S.",
+      "definition":"South; Southern"
+   },
+   {
+      "abbreviation":"s.",
+      "definition":"Son"
+   },
+   {
+      "abbreviation":"S.A.A.",
+      "definition":"Saskatchewan Association of Architects"
+   },
+   {
+      "abbreviation":"S.A.F.A.",
+      "definition":"The Finnish Association of Architects"
+   },
+   {
+      "abbreviation":"S.B.",
+      "definition":"Bachelor of Science"
+   },
+   {
+      "abbreviation":"S.B.St.J.",
+      "definition":"Serving Brother of the Order of St. John "
+   },
+   {
+      "abbreviation":"S.C.",
+      "definition":"Star of Courage"
+   },
+   {
+      "abbreviation":"S.C.A. ",
+      "definition":"Society of Canadian Artists "
+   },
+   {
+      "abbreviation":"S.D.",
+      "definition":"Doctor of Science"
+   },
+   {
+      "abbreviation":"S.J.",
+      "definition":"Society of Jesus (Jesuits)"
+   },
+   {
+      "abbreviation":"S.J.D.",
+      "definition":"Scientiae Juridicae Doctor (Doctor of Juridical Science; also Juristic Science)"
+   },
+   {
+      "abbreviation":"S.M.",
+      "definition":"Master of Science"
+   },
+   {
+      "abbreviation":"S.O.M.",
+      "definition":"Saskatchewan Order of Merit"
+   },
+   {
+      "abbreviation":"S.P.H.R.",
+      "definition":"Senior Professional in Human Resources"
+   },
+   {
+      "abbreviation":"S.R.C.",
+      "definition":"Société Radio-Canada"
+   },
+   {
+      "abbreviation":"S.S.B.",
+      "definition":"Bachelier en Science Sacrée"
+   },
+   {
+      "abbreviation":"S.S.C.",
+      "definition":"Sculptors Society of Canada"
+   },
+   {
+      "abbreviation":"S.S.F.C.",
+      "definition":"Social Science Federation of Canada"
+   },
+   {
+      "abbreviation":"S.S.L.",
+      "definition":"Licentiate in Sacred Scripture"
+   },
+   {
+      "abbreviation":"S.S.St.J.",
+      "definition":"Serving Sister of the Order of St. John"
+   },
+   {
+      "abbreviation":"S.T.B., S.Th.B.",
+      "definition":"Bachelor of Sacred Theology"
+   },
+   {
+      "abbreviation":"S.T.D., S.Th.D.",
+      "definition":"Doctor of Sacred Theology"
+   },
+   {
+      "abbreviation":"S.T.L., S.Th.L.",
+      "definition":"Licentiate in Sacred Theology"
+   },
+   {
+      "abbreviation":"S.T.M.",
+      "definition":"Master of Sacred Theology"
+   },
+   {
+      "abbreviation":"S.V.M.",
+      "definition":"Saskatchewan Volunteer Medal"
+   },
+   {
+      "abbreviation":"Sask.",
+      "definition":"Saskatchewan"
+   },
+   {
+      "abbreviation":"Sc.D.",
+      "definition":"Doctor of Science"
+   },
+   {
+      "abbreviation":"Sc.L.",
+      "definition":"Licence ès Sciences"
+   },
+   {
+      "abbreviation":"Sc.Soc.B.",
+      "definition":"Bachelier Science Sociale"
+   },
+   {
+      "abbreviation":"Sc.Soc.D.",
+      "definition":"Doctor of Social Science"
+   },
+   {
+      "abbreviation":"Sc.Soc.L.",
+      "definition":"License in Social Science"
+   },
+   {
+      "abbreviation":"Sec.",
+      "definition":"Section"
+   },
+   {
+      "abbreviation":"Sém.",
+      "definition":"Séminaire; Séminarien"
+   },
+   {
+      "abbreviation":"Semy.",
+      "definition":"Seminary"
+   },
+   {
+      "abbreviation":"Soc.",
+      "definition":"Society; Société"
+   },
+   {
+      "abbreviation":"SOCAN",
+      "definition":"Society of Composers, Authors and Music Publishers of Canada"
+   },
+   {
+      "abbreviation":"Sociol.",
+      "definition":"Sociology; Sociological; Sociologist"
+   },
+   {
+      "abbreviation":"SODRAC",
+      "definition":"Société du droit de reproduction des auteurs, compositeurs et éditeurs au Canada"
+   },
+   {
+      "abbreviation":"Solr.",
+      "definition":"Solicitor"
+   },
+   {
+      "abbreviation":"Sqdn.",
+      "definition":"Squadron"
+   },
+   {
+      "abbreviation":"Sr.",
+      "definition":"Senior; Sister"
+   },
+   {
+      "abbreviation":"SSHRCC",
+      "definition":"Social Sciences and Humanities Research Council of Canada"
+   },
+   {
+      "abbreviation":"Stat.",
+      "definition":"Statistical; Statistics; Statistician"
+   },
+   {
+      "abbreviation":"T.E.P.",
+      "definition":"Trust and Estate Practitioner"
+   },
+   {
+      "abbreviation":"T.E.S.L.",
+      "definition":"Teaching English as a Second Language"
+   },
+   {
+      "abbreviation":"Th.B.",
+      "definition":"Bachelor of Theology"
+   },
+   {
+      "abbreviation":"Th.D.",
+      "definition":"Doctor of Theology"
+   },
+   {
+      "abbreviation":"Theol.",
+      "definition":"Theology; Theological; Theologian"
+   },
+   {
+      "abbreviation":"Th.L.",
+      "definition":"Theological Licentiate"
+   },
+   {
+      "abbreviation":"Topog.",
+      "definition":"Topography; Topographical; Topographer"
+   },
+   {
+      "abbreviation":"Toxicol.",
+      "definition":"Toxicology; Toxicologist"
+   },
+   {
+      "abbreviation":"Twp.",
+      "definition":"Township"
+   },
+   {
+      "abbreviation":"U.A.A.C.",
+      "definition":"Universities Art Association of Canada"
+   },
+   {
+      "abbreviation":"U.E., U.E.L.",
+      "definition":"United Empire Loyalist"
+   },
+   {
+      "abbreviation":"U.K.",
+      "definition":"United Kingdom"
+   },
+   {
+      "abbreviation":"U.M.W.A.",
+      "definition":"United Mine Workers of America"
+   },
+   {
+      "abbreviation":"U.N.",
+      "definition":"United Nations"
+   },
+   {
+      "abbreviation":"U.N.S.M. (Korea)",
+      "definition":"United Nations Service Medal for Korea"
+   },
+   {
+      "abbreviation":"U.O.M.",
+      "definition":"Officer of the National Order of Merit (Malta)"
+   },
+   {
+      "abbreviation":"U.S.N.",
+      "definition":"United States Navy"
+   },
+   {
+      "abbreviation":"Un.",
+      "definition":"Unis; United"
+   },
+   {
+      "abbreviation":"UNESCO",
+      "definition":"United Nations Educational, Scientific and Cultural Organization"
+   },
+   {
+      "abbreviation":"UNICEF",
+      "definition":"United Nations International Children’s Emergency Fund"
+   },
+   {
+      "abbreviation":"UNO",
+      "definition":"United Nations Organization"
+   },
+   {
+      "abbreviation":"UNRRA",
+      "definition":"United Nations Relief and Rehabilitation Administration"
+   },
+   {
+      "abbreviation":"Urol.",
+      "definition":"Urology; Urological; Urologist"
+   },
+   {
+      "abbreviation":"V.C.",
+      "definition":"Victoria Cross"
+   },
+   {
+      "abbreviation":"V.D.",
+      "definition":"Volunteer Officers’ Decoration"
+   },
+   {
+      "abbreviation":"Ven.",
+      "definition":"Venerable (of an Archdeacon)"
+   },
+   {
+      "abbreviation":"Very Rev.",
+      "definition":"Very Reverend (of a Dean)"
+   },
+   {
+      "abbreviation":"Vet.",
+      "definition":"Veterinary; Veterinarian"
+   },
+   {
+      "abbreviation":"V.G.",
+      "definition":"Vicar-General"
+   },
+   {
+      "abbreviation":"Vol.",
+      "definition":"Volume; Voluntary; Volunteer "
+   },
+   {
+      "abbreviation":"V.Q.M.G.",
+      "definition":"Vice-Quartermaster-General"
+   },
+   {
+      "abbreviation":"V.R.D.",
+      "definition":"Naval Volunteer Reserve Decoration"
+   },
+   {
+      "abbreviation":"V.S.",
+      "definition":"Veterinary Surgeon"
+   },
+   {
+      "abbreviation":"W.",
+      "definition":"West; Western"
+   },
+   {
+      "abbreviation":"W.H.O.",
+      "definition":"World Health Organization"
+   },
+   {
+      "abbreviation":"W.I.P.O.",
+      "definition":"World Intellectual Property Organization"
+   },
+   {
+      "abbreviation":"W.P.T.B.",
+      "definition":"Wartime Prices and Trade Board"
+   },
+   {
+      "abbreviation":"W.T.O.",
+      "definition":"World Trade Organization"
+   },
+   {
+      "abbreviation":"Y.M.C.A.",
+      "definition":"Young Men’s Christian Association"
+   },
+   {
+      "abbreviation":"Y.M.H.A.",
+      "definition":"Young Men’s Hebrew Association"
+   },
+   {
+      "abbreviation":"Y.W.C.A.",
+      "definition":"Young Women’s Christian Association"
+   },
+   {
+      "abbreviation":"Y.W.H.A. ",
+      "definition":"Young Women’s Hebrew Association"
+   }
+]
